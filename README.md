@@ -4,7 +4,7 @@ Modeling of published clinical Itraconazole-Digoxin-DDI studies for model evalua
 ![gim](https://github.com/Open-Systems-Pharmacology/Itraconazole-Digoxin-DDI/blob/master/Itraconazole-Digoxin-DDI.png)
 
 ### Repository files
-Within this repository, we distribute a PK-Sim project file containing simulations of all published clinical studies used to evaluate the predictive performance of our models regarding the Itraconazole-Digoxin-DDI, including the respective observed data digitized from literature reports. For further details and documentation please refer to [[1](#reference)]. 
+Within this repository, we distribute a PK-Sim project file containing simulations of all published clinical studies used to evaluate the predictive performance of our models regarding the Itraconazole-Digoxin-DDI, including the respective observed data digitized from literature reports. The applied itraconazole model is an improved version of the itraconazole/hydroxy-itraconazole compound template provided in PK-Sim; the compound template will be updated as soon as possible. For further details and documentation please refer to [[1](#reference)]. 
 
 ### License
 The model is distributed under the [GPLv2 License](https://github.com/Open-Systems-Pharmacology/Suite/blob/develop/LICENSE). 
