@@ -1,0 +1,6210 @@
+{
+  "Version": 79,
+  "ExpressionProfiles": [
+    {
+      "Type": "Enzyme",
+      "Species": "Human",
+      "Molecule": "CYP3A4",
+      "Category": "European (P-gp modified, CYP3A4 36 h)",
+      "Parameters": [
+        {
+          "Path": "CYP3A4|Reference concentration",
+          "Value": 4.32,
+          "Unit": "µmol/l"
+        },
+        {
+          "Path": "CYP3A4|t1/2 (intestine)",
+          "Value": 23.0,
+          "Unit": "h"
+        },
+        {
+          "Path": "CYP3A4|t1/2 (liver)",
+          "Value": 36.0,
+          "Unit": "h",
+          "ValueOrigin": {
+            "Source": "Unknown"
+          }
+        },
+        {
+          "Path": "Organism|Brain|Intracellular|CYP3A4|Relative expression",
+          "Value": 0.0041682898325
+        },
+        {
+          "Path": "Organism|Gonads|Intracellular|CYP3A4|Relative expression",
+          "Value": 0.00078691079081
+        },
+        {
+          "Path": "Organism|Kidney|Intracellular|CYP3A4|Relative expression",
+          "Value": 0.0053603428126
+        },
+        {
+          "Path": "Organism|Liver|Pericentral|Intracellular|CYP3A4|Relative expression",
+          "Value": 1.0
+        },
+        {
+          "Path": "Organism|Liver|Periportal|Intracellular|CYP3A4|Relative expression",
+          "Value": 1.0
+        },
+        {
+          "Path": "Organism|Lung|Intracellular|CYP3A4|Relative expression",
+          "Value": 0.00042695753798
+        },
+        {
+          "Path": "Organism|SmallIntestine|Intracellular|CYP3A4|Relative expression",
+          "Value": 0.0727697702
+        },
+        {
+          "Path": "Organism|SmallIntestine|Mucosa|Duodenum|Intracellular|CYP3A4|Relative expression",
+          "Value": 0.0727697702
+        },
+        {
+          "Path": "Organism|SmallIntestine|Mucosa|LowerIleum|Intracellular|CYP3A4|Relative expression",
+          "Value": 0.0727697702
+        },
+        {
+          "Path": "Organism|SmallIntestine|Mucosa|LowerJejunum|Intracellular|CYP3A4|Relative expression",
+          "Value": 0.0727697702
+        },
+        {
+          "Path": "Organism|SmallIntestine|Mucosa|UpperIleum|Intracellular|CYP3A4|Relative expression",
+          "Value": 0.0727697702
+        },
+        {
+          "Path": "Organism|SmallIntestine|Mucosa|UpperJejunum|Intracellular|CYP3A4|Relative expression",
+          "Value": 0.0727697702
+        }
+      ],
+      "Localization": "Intracellular, BloodCellsIntracellular, VascEndosome",
+      "Ontogeny": {
+        "Name": "CYP3A4"
+      }
+    },
+    {
+      "Type": "Enzyme",
+      "Species": "Human",
+      "Molecule": "AADAC",
+      "Category": "European (P-gp modified, CYP3A4 36 h)",
+      "Parameters": [
+        {
+          "Path": "AADAC|Reference concentration",
+          "Value": 1.0,
+          "Unit": "µmol/l"
+        },
+        {
+          "Path": "AADAC|Relative expression in blood cells",
+          "Value": 3.9102564103E-05
+        },
+        {
+          "Path": "AADAC|Relative expression in plasma",
+          "Value": 3.9102564103E-05
+        },
+        {
+          "Path": "AADAC|t1/2 (intestine)",
+          "Value": 23.0,
+          "Unit": "h"
+        },
+        {
+          "Path": "AADAC|t1/2 (liver)",
+          "Value": 36.0,
+          "Unit": "h"
+        },
+        {
+          "Path": "Organism|Bone|Intracellular|AADAC|Relative expression",
+          "Value": 4.8717948718E-05
+        },
+        {
+          "Path": "Organism|Brain|Intracellular|AADAC|Relative expression",
+          "Value": 3.9743589744E-05
+        },
+        {
+          "Path": "Organism|Gonads|Intracellular|AADAC|Relative expression",
+          "Value": 0.0011923076923
+        },
+        {
+          "Path": "Organism|Heart|Intracellular|AADAC|Relative expression",
+          "Value": 0.0026602564103
+        },
+        {
+          "Path": "Organism|Kidney|Intracellular|AADAC|Relative expression",
+          "Value": 5.7051282051E-05
+        },
+        {
+          "Path": "Organism|LargeIntestine|Intracellular|AADAC|Relative expression",
+          "Value": 0.00010384615385
+        },
+        {
+          "Path": "Organism|LargeIntestine|Mucosa|ColonAscendens|Intracellular|AADAC|Relative expression",
+          "Value": 0.00010384615385
+        },
+        {
+          "Path": "Organism|LargeIntestine|Mucosa|ColonDescendens|Intracellular|AADAC|Relative expression",
+          "Value": 0.00010384615385
+        },
+        {
+          "Path": "Organism|LargeIntestine|Mucosa|ColonSigmoid|Intracellular|AADAC|Relative expression",
+          "Value": 0.00010384615385
+        },
+        {
+          "Path": "Organism|LargeIntestine|Mucosa|ColonTransversum|Intracellular|AADAC|Relative expression",
+          "Value": 0.00010384615385
+        },
+        {
+          "Path": "Organism|Liver|Pericentral|Intracellular|AADAC|Relative expression",
+          "Value": 1.0
+        },
+        {
+          "Path": "Organism|Liver|Periportal|Intracellular|AADAC|Relative expression",
+          "Value": 1.0
+        },
+        {
+          "Path": "Organism|Lung|Intracellular|AADAC|Relative expression",
+          "Value": 0.0269230769
+        },
+        {
+          "Path": "Organism|Muscle|Intracellular|AADAC|Relative expression",
+          "Value": 0.00020833333333
+        },
+        {
+          "Path": "Organism|Pancreas|Intracellular|AADAC|Relative expression",
+          "Value": 0.1474358974
+        },
+        {
+          "Path": "Organism|SmallIntestine|Intracellular|AADAC|Relative expression",
+          "Value": 0.2544871795
+        },
+        {
+          "Path": "Organism|SmallIntestine|Mucosa|Duodenum|Intracellular|AADAC|Relative expression",
+          "Value": 0.2544871795
+        },
+        {
+          "Path": "Organism|SmallIntestine|Mucosa|LowerIleum|Intracellular|AADAC|Relative expression",
+          "Value": 0.2544871795
+        },
+        {
+          "Path": "Organism|SmallIntestine|Mucosa|LowerJejunum|Intracellular|AADAC|Relative expression",
+          "Value": 0.2544871795
+        },
+        {
+          "Path": "Organism|SmallIntestine|Mucosa|UpperIleum|Intracellular|AADAC|Relative expression",
+          "Value": 0.2544871795
+        },
+        {
+          "Path": "Organism|SmallIntestine|Mucosa|UpperJejunum|Intracellular|AADAC|Relative expression",
+          "Value": 0.2544871795
+        },
+        {
+          "Path": "Organism|Spleen|Intracellular|AADAC|Relative expression",
+          "Value": 0.00037115384615
+        },
+        {
+          "Path": "Organism|Stomach|Intracellular|AADAC|Relative expression",
+          "Value": 0.0775641026
+        }
+      ],
+      "Localization": "Intracellular, BloodCellsIntracellular, VascEndosome"
+    },
+    {
+      "Type": "OtherProtein",
+      "Species": "Human",
+      "Molecule": "GABRG2",
+      "Category": "European (P-gp modified, CYP3A4 36 h)",
+      "Parameters": [
+        {
+          "Path": "GABRG2|Reference concentration",
+          "Value": 1.04099689,
+          "Unit": "µmol/l",
+          "ValueOrigin": {
+            "Source": "Unknown"
+          }
+        },
+        {
+          "Path": "GABRG2|t1/2 (intestine)",
+          "Value": 23.0,
+          "Unit": "h"
+        },
+        {
+          "Path": "GABRG2|t1/2 (liver)",
+          "Value": 36.0,
+          "Unit": "h"
+        },
+        {
+          "Path": "Organism|Brain|Intracellular|GABRG2|Relative expression",
+          "Value": 1.0
+        }
+      ],
+      "Localization": "Interstitial, BloodCellsMembrane, VascMembranePlasmaSide"
+    },
+    {
+      "Type": "Transporter",
+      "Species": "Human",
+      "Molecule": "OATP1B1",
+      "Category": "European (P-gp modified, CYP3A4 36 h)",
+      "Parameters": [
+        {
+          "Path": "OATP1B1|Reference concentration",
+          "Value": 1.0,
+          "Unit": "µmol/l"
+        },
+        {
+          "Path": "OATP1B1|t1/2 (intestine)",
+          "Value": 23.0,
+          "Unit": "h"
+        },
+        {
+          "Path": "OATP1B1|t1/2 (liver)",
+          "Value": 36.0,
+          "Unit": "h"
+        },
+        {
+          "Path": "Organism|Brain|Intracellular|OATP1B1|Relative expression",
+          "Value": 0.00014166666667
+        },
+        {
+          "Path": "Organism|Gonads|Intracellular|OATP1B1|Relative expression",
+          "Value": 0.0141666667
+        },
+        {
+          "Path": "Organism|Heart|Intracellular|OATP1B1|Relative expression",
+          "Value": 0.0008253968254
+        },
+        {
+          "Path": "Organism|Liver|Pericentral|Intracellular|OATP1B1|Relative expression",
+          "Value": 1.0
+        },
+        {
+          "Path": "Organism|Liver|Periportal|Intracellular|OATP1B1|Relative expression",
+          "Value": 1.0
+        },
+        {
+          "Path": "Organism|Lung|Intracellular|OATP1B1|Relative expression",
+          "Value": 4.0079365079E-05
+        },
+        {
+          "Path": "Organism|Muscle|Intracellular|OATP1B1|Relative expression",
+          "Value": 0.00064682539683
+        }
+      ],
+      "TransportType": "Influx",
+      "Expression": [
+        {
+          "Name": "Bone",
+          "TransportDirection": "InfluxInterstitialToIntracellular",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "Brain",
+          "TransportDirection": "InfluxBrainPlasmaToInterstitial",
+          "CompartmentName": "Plasma"
+        },
+        {
+          "Name": "Brain",
+          "TransportDirection": "InfluxBrainInterstitialToTissue",
+          "CompartmentName": "Interstitial"
+        },
+        {
+          "Name": "Fat",
+          "TransportDirection": "InfluxInterstitialToIntracellular",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "Gonads",
+          "TransportDirection": "InfluxInterstitialToIntracellular",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "Heart",
+          "TransportDirection": "InfluxInterstitialToIntracellular",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "Kidney",
+          "TransportDirection": "InfluxInterstitialToIntracellular",
+          "CompartmentName": "Interstitial"
+        },
+        {
+          "Name": "Kidney",
+          "TransportDirection": "ExcretionKidney",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "Stomach",
+          "TransportDirection": "InfluxInterstitialToIntracellular",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "SmallIntestine",
+          "TransportDirection": "InfluxInterstitialToIntracellular",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "Duodenum",
+          "TransportDirection": "InfluxInterstitialToIntracellular",
+          "CompartmentName": "Interstitial"
+        },
+        {
+          "Name": "Duodenum",
+          "TransportDirection": "InfluxLumenToMucosaIntracellular",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "UpperJejunum",
+          "TransportDirection": "InfluxInterstitialToIntracellular",
+          "CompartmentName": "Interstitial"
+        },
+        {
+          "Name": "UpperJejunum",
+          "TransportDirection": "InfluxLumenToMucosaIntracellular",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "LowerJejunum",
+          "TransportDirection": "InfluxInterstitialToIntracellular",
+          "CompartmentName": "Interstitial"
+        },
+        {
+          "Name": "LowerJejunum",
+          "TransportDirection": "InfluxLumenToMucosaIntracellular",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "UpperIleum",
+          "TransportDirection": "InfluxInterstitialToIntracellular",
+          "CompartmentName": "Interstitial"
+        },
+        {
+          "Name": "UpperIleum",
+          "TransportDirection": "InfluxLumenToMucosaIntracellular",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "LowerIleum",
+          "TransportDirection": "InfluxInterstitialToIntracellular",
+          "CompartmentName": "Interstitial"
+        },
+        {
+          "Name": "LowerIleum",
+          "TransportDirection": "InfluxLumenToMucosaIntracellular",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "LargeIntestine",
+          "TransportDirection": "InfluxInterstitialToIntracellular",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "Caecum",
+          "TransportDirection": "InfluxInterstitialToIntracellular",
+          "CompartmentName": "Interstitial"
+        },
+        {
+          "Name": "Caecum",
+          "TransportDirection": "InfluxLumenToMucosaIntracellular",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "ColonAscendens",
+          "TransportDirection": "InfluxInterstitialToIntracellular",
+          "CompartmentName": "Interstitial"
+        },
+        {
+          "Name": "ColonAscendens",
+          "TransportDirection": "InfluxLumenToMucosaIntracellular",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "ColonTransversum",
+          "TransportDirection": "InfluxInterstitialToIntracellular",
+          "CompartmentName": "Interstitial"
+        },
+        {
+          "Name": "ColonTransversum",
+          "TransportDirection": "InfluxLumenToMucosaIntracellular",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "ColonDescendens",
+          "TransportDirection": "InfluxInterstitialToIntracellular",
+          "CompartmentName": "Interstitial"
+        },
+        {
+          "Name": "ColonDescendens",
+          "TransportDirection": "InfluxLumenToMucosaIntracellular",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "ColonSigmoid",
+          "TransportDirection": "InfluxInterstitialToIntracellular",
+          "CompartmentName": "Interstitial"
+        },
+        {
+          "Name": "ColonSigmoid",
+          "TransportDirection": "InfluxLumenToMucosaIntracellular",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "Rectum",
+          "TransportDirection": "InfluxInterstitialToIntracellular",
+          "CompartmentName": "Interstitial"
+        },
+        {
+          "Name": "Rectum",
+          "TransportDirection": "InfluxLumenToMucosaIntracellular",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "Periportal",
+          "TransportDirection": "InfluxInterstitialToIntracellular",
+          "CompartmentName": "Interstitial"
+        },
+        {
+          "Name": "Periportal",
+          "TransportDirection": "ExcretionLiver",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "Pericentral",
+          "TransportDirection": "InfluxInterstitialToIntracellular",
+          "CompartmentName": "Interstitial"
+        },
+        {
+          "Name": "Pericentral",
+          "TransportDirection": "ExcretionLiver",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "Lung",
+          "TransportDirection": "InfluxInterstitialToIntracellular",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "Muscle",
+          "TransportDirection": "InfluxInterstitialToIntracellular",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "Pancreas",
+          "TransportDirection": "InfluxInterstitialToIntracellular",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "Skin",
+          "TransportDirection": "InfluxInterstitialToIntracellular",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "Spleen",
+          "TransportDirection": "InfluxInterstitialToIntracellular",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "BloodCells",
+          "TransportDirection": "InfluxPlasmaToBloodCells"
+        },
+        {
+          "Name": "VascularEndothelium",
+          "TransportDirection": "InfluxPlasmaToInterstitial"
+        }
+      ]
+    },
+    {
+      "Type": "Enzyme",
+      "Species": "Human",
+      "Molecule": "UGT1A4",
+      "Category": "European (P-gp modified, CYP3A4 36 h)",
+      "Parameters": [
+        {
+          "Path": "Organism|Liver|Pericentral|Intracellular|UGT1A4|Relative expression",
+          "Value": 1.0
+        },
+        {
+          "Path": "Organism|Liver|Periportal|Intracellular|UGT1A4|Relative expression",
+          "Value": 1.0
+        },
+        {
+          "Path": "UGT1A4|Reference concentration",
+          "Value": 2.32,
+          "Unit": "µmol/l",
+          "ValueOrigin": {
+            "Source": "Unknown"
+          }
+        },
+        {
+          "Path": "UGT1A4|t1/2 (intestine)",
+          "Value": 23.0,
+          "Unit": "h"
+        },
+        {
+          "Path": "UGT1A4|t1/2 (liver)",
+          "Value": 36.0,
+          "Unit": "h"
+        }
+      ],
+      "Localization": "Intracellular, BloodCellsIntracellular, VascEndosome",
+      "Ontogeny": {
+        "Name": "UGT1A4"
+      }
+    },
+    {
+      "Type": "OtherProtein",
+      "Species": "Human",
+      "Molecule": "ATP1A2",
+      "Category": "European (P-gp modified, CYP3A4 36 h)",
+      "Parameters": [
+        {
+          "Path": "ATP1A2|Reference concentration",
+          "Value": 0.39140774,
+          "Unit": "µmol/l",
+          "ValueOrigin": {
+            "Source": "Unknown"
+          }
+        },
+        {
+          "Path": "ATP1A2|t1/2 (intestine)",
+          "Value": 23.0,
+          "Unit": "h"
+        },
+        {
+          "Path": "ATP1A2|t1/2 (liver)",
+          "Value": 36.0,
+          "Unit": "h"
+        },
+        {
+          "Path": "Organism|Bone|Intracellular|ATP1A2|Relative expression",
+          "Value": 0.0062154033171
+        },
+        {
+          "Path": "Organism|Brain|Intracellular|ATP1A2|Relative expression",
+          "Value": 1.0
+        },
+        {
+          "Path": "Organism|Gonads|Intracellular|ATP1A2|Relative expression",
+          "Value": 0.0508741242
+        },
+        {
+          "Path": "Organism|Heart|Intracellular|ATP1A2|Relative expression",
+          "Value": 0.3179118843
+        },
+        {
+          "Path": "Organism|Kidney|Intracellular|ATP1A2|Relative expression",
+          "Value": 0.0158938619
+        },
+        {
+          "Path": "Organism|LargeIntestine|Intracellular|ATP1A2|Relative expression",
+          "Value": 0.0786998764
+        },
+        {
+          "Path": "Organism|LargeIntestine|Mucosa|ColonAscendens|Intracellular|ATP1A2|Relative expression",
+          "Value": 0.0786998764
+        },
+        {
+          "Path": "Organism|LargeIntestine|Mucosa|ColonDescendens|Intracellular|ATP1A2|Relative expression",
+          "Value": 0.0786998764
+        },
+        {
+          "Path": "Organism|LargeIntestine|Mucosa|ColonSigmoid|Intracellular|ATP1A2|Relative expression",
+          "Value": 0.0786998764
+        },
+        {
+          "Path": "Organism|LargeIntestine|Mucosa|ColonTransversum|Intracellular|ATP1A2|Relative expression",
+          "Value": 0.0786998764
+        },
+        {
+          "Path": "Organism|Liver|Pericentral|Intracellular|ATP1A2|Relative expression",
+          "Value": 0.0223784807
+        },
+        {
+          "Path": "Organism|Liver|Periportal|Intracellular|ATP1A2|Relative expression",
+          "Value": 0.0223784807
+        },
+        {
+          "Path": "Organism|Lung|Intracellular|ATP1A2|Relative expression",
+          "Value": 0.0272345453
+        },
+        {
+          "Path": "Organism|Muscle|Intracellular|ATP1A2|Relative expression",
+          "Value": 0.7034193524
+        },
+        {
+          "Path": "Organism|Pancreas|Intracellular|ATP1A2|Relative expression",
+          "Value": 0.0073903254795
+        },
+        {
+          "Path": "Organism|Skin|Intracellular|ATP1A2|Relative expression",
+          "Value": 0.0389467988
+        },
+        {
+          "Path": "Organism|SmallIntestine|Intracellular|ATP1A2|Relative expression",
+          "Value": 0.0501579923
+        },
+        {
+          "Path": "Organism|SmallIntestine|Mucosa|Duodenum|Intracellular|ATP1A2|Relative expression",
+          "Value": 0.0501579923
+        },
+        {
+          "Path": "Organism|SmallIntestine|Mucosa|LowerIleum|Intracellular|ATP1A2|Relative expression",
+          "Value": 0.0501579923
+        },
+        {
+          "Path": "Organism|SmallIntestine|Mucosa|LowerJejunum|Intracellular|ATP1A2|Relative expression",
+          "Value": 0.0501579923
+        },
+        {
+          "Path": "Organism|SmallIntestine|Mucosa|UpperIleum|Intracellular|ATP1A2|Relative expression",
+          "Value": 0.0501579923
+        },
+        {
+          "Path": "Organism|SmallIntestine|Mucosa|UpperJejunum|Intracellular|ATP1A2|Relative expression",
+          "Value": 0.0501579923
+        },
+        {
+          "Path": "Organism|Spleen|Intracellular|ATP1A2|Relative expression",
+          "Value": 0.0103243118
+        },
+        {
+          "Path": "Organism|Stomach|Intracellular|ATP1A2|Relative expression",
+          "Value": 0.0309435884
+        }
+      ],
+      "Localization": "Interstitial, BloodCellsMembrane, VascMembranePlasmaSide"
+    },
+    {
+      "Type": "Transporter",
+      "Species": "Human",
+      "Molecule": "P-gp",
+      "Category": "European (P-gp modified, CYP3A4 36 h)",
+      "Parameters": [
+        {
+          "Path": "Organism|Bone|Intracellular|P-gp|Relative expression",
+          "Value": 0.0242518189
+        },
+        {
+          "Path": "Organism|Brain|Intracellular|P-gp|Relative expression",
+          "Value": 0.07608904
+        },
+        {
+          "Path": "Organism|Gonads|Intracellular|P-gp|Relative expression",
+          "Value": 0.017417973
+        },
+        {
+          "Path": "Organism|Heart|Intracellular|P-gp|Relative expression",
+          "Value": 0.0419198106
+        },
+        {
+          "Path": "Organism|Kidney|Intracellular|P-gp|Relative expression",
+          "Value": 0.7092198582
+        },
+        {
+          "Path": "Organism|LargeIntestine|Intracellular|P-gp|Relative expression",
+          "Value": 0.1108416465
+        },
+        {
+          "Path": "Organism|LargeIntestine|Mucosa|ColonAscendens|Intracellular|P-gp|Relative expression",
+          "Value": 0.3971631206
+        },
+        {
+          "Path": "Organism|LargeIntestine|Mucosa|ColonDescendens|Intracellular|P-gp|Relative expression",
+          "Value": 0.3971631206
+        },
+        {
+          "Path": "Organism|LargeIntestine|Mucosa|ColonSigmoid|Intracellular|P-gp|Relative expression",
+          "Value": 0.3971631206
+        },
+        {
+          "Path": "Organism|LargeIntestine|Mucosa|ColonTransversum|Intracellular|P-gp|Relative expression",
+          "Value": 0.3971631206
+        },
+        {
+          "Path": "Organism|Liver|Pericentral|Intracellular|P-gp|Relative expression",
+          "Value": 0.1916810428
+        },
+        {
+          "Path": "Organism|Liver|Periportal|Intracellular|P-gp|Relative expression",
+          "Value": 0.1916810428
+        },
+        {
+          "Path": "Organism|Lung|Intracellular|P-gp|Relative expression",
+          "Value": 0.0657549316
+        },
+        {
+          "Path": "Organism|Muscle|Intracellular|P-gp|Relative expression",
+          "Value": 0.0128342959
+        },
+        {
+          "Path": "Organism|Pancreas|Intracellular|P-gp|Relative expression",
+          "Value": 0.0142510689
+        },
+        {
+          "Path": "Organism|SmallIntestine|Intracellular|P-gp|Relative expression",
+          "Value": 0.2808543974
+        },
+        {
+          "Path": "Organism|SmallIntestine|Mucosa|Duodenum|Intracellular|P-gp|Relative expression",
+          "Value": 1.0
+        },
+        {
+          "Path": "Organism|SmallIntestine|Mucosa|LowerIleum|Intracellular|P-gp|Relative expression",
+          "Value": 1.0
+        },
+        {
+          "Path": "Organism|SmallIntestine|Mucosa|LowerJejunum|Intracellular|P-gp|Relative expression",
+          "Value": 1.0
+        },
+        {
+          "Path": "Organism|SmallIntestine|Mucosa|UpperIleum|Intracellular|P-gp|Relative expression",
+          "Value": 1.0
+        },
+        {
+          "Path": "Organism|SmallIntestine|Mucosa|UpperJejunum|Intracellular|P-gp|Relative expression",
+          "Value": 1.0
+        },
+        {
+          "Path": "Organism|Spleen|Intracellular|P-gp|Relative expression",
+          "Value": 0.0742555691
+        },
+        {
+          "Path": "Organism|Stomach|Intracellular|P-gp|Relative expression",
+          "Value": 0.0260852897
+        },
+        {
+          "Path": "P-gp|Reference concentration",
+          "Value": 1.41,
+          "Unit": "µmol/l",
+          "ValueOrigin": {
+            "Source": "Unknown"
+          }
+        },
+        {
+          "Path": "P-gp|t1/2 (intestine)",
+          "Value": 23.0,
+          "Unit": "h"
+        },
+        {
+          "Path": "P-gp|t1/2 (liver)",
+          "Value": 36.0,
+          "Unit": "h"
+        }
+      ],
+      "TransportType": "Efflux",
+      "Expression": [
+        {
+          "Name": "Bone",
+          "TransportDirection": "EffluxIntracellularToInterstitial",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "Brain",
+          "TransportDirection": "EffluxBrainInterstitialToPlasma",
+          "CompartmentName": "Plasma"
+        },
+        {
+          "Name": "Brain",
+          "TransportDirection": "EffluxBrainTissueToInterstitial",
+          "CompartmentName": "Interstitial"
+        },
+        {
+          "Name": "Fat",
+          "TransportDirection": "EffluxIntracellularToInterstitial",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "Gonads",
+          "TransportDirection": "EffluxIntracellularToInterstitial",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "Heart",
+          "TransportDirection": "EffluxIntracellularToInterstitial",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "Kidney",
+          "TransportDirection": "EffluxIntracellularToInterstitial",
+          "CompartmentName": "Interstitial"
+        },
+        {
+          "Name": "Kidney",
+          "TransportDirection": "ExcretionKidney",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "Stomach",
+          "TransportDirection": "EffluxIntracellularToInterstitial",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "SmallIntestine",
+          "TransportDirection": "EffluxIntracellularToInterstitial",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "Duodenum",
+          "TransportDirection": "EffluxIntracellularToInterstitial",
+          "CompartmentName": "Interstitial"
+        },
+        {
+          "Name": "Duodenum",
+          "TransportDirection": "EffluxMucosaIntracellularToLumen",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "UpperJejunum",
+          "TransportDirection": "EffluxIntracellularToInterstitial",
+          "CompartmentName": "Interstitial"
+        },
+        {
+          "Name": "UpperJejunum",
+          "TransportDirection": "EffluxMucosaIntracellularToLumen",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "LowerJejunum",
+          "TransportDirection": "EffluxIntracellularToInterstitial",
+          "CompartmentName": "Interstitial"
+        },
+        {
+          "Name": "LowerJejunum",
+          "TransportDirection": "EffluxMucosaIntracellularToLumen",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "UpperIleum",
+          "TransportDirection": "EffluxIntracellularToInterstitial",
+          "CompartmentName": "Interstitial"
+        },
+        {
+          "Name": "UpperIleum",
+          "TransportDirection": "EffluxMucosaIntracellularToLumen",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "LowerIleum",
+          "TransportDirection": "EffluxIntracellularToInterstitial",
+          "CompartmentName": "Interstitial"
+        },
+        {
+          "Name": "LowerIleum",
+          "TransportDirection": "EffluxMucosaIntracellularToLumen",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "LargeIntestine",
+          "TransportDirection": "EffluxIntracellularToInterstitial",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "Caecum",
+          "TransportDirection": "EffluxIntracellularToInterstitial",
+          "CompartmentName": "Interstitial"
+        },
+        {
+          "Name": "Caecum",
+          "TransportDirection": "EffluxMucosaIntracellularToLumen",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "ColonAscendens",
+          "TransportDirection": "EffluxIntracellularToInterstitial",
+          "CompartmentName": "Interstitial"
+        },
+        {
+          "Name": "ColonAscendens",
+          "TransportDirection": "EffluxMucosaIntracellularToLumen",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "ColonTransversum",
+          "TransportDirection": "EffluxIntracellularToInterstitial",
+          "CompartmentName": "Interstitial"
+        },
+        {
+          "Name": "ColonTransversum",
+          "TransportDirection": "EffluxMucosaIntracellularToLumen",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "ColonDescendens",
+          "TransportDirection": "EffluxIntracellularToInterstitial",
+          "CompartmentName": "Interstitial"
+        },
+        {
+          "Name": "ColonDescendens",
+          "TransportDirection": "EffluxMucosaIntracellularToLumen",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "ColonSigmoid",
+          "TransportDirection": "EffluxIntracellularToInterstitial",
+          "CompartmentName": "Interstitial"
+        },
+        {
+          "Name": "ColonSigmoid",
+          "TransportDirection": "EffluxMucosaIntracellularToLumen",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "Rectum",
+          "TransportDirection": "EffluxIntracellularToInterstitial",
+          "CompartmentName": "Interstitial"
+        },
+        {
+          "Name": "Rectum",
+          "TransportDirection": "EffluxMucosaIntracellularToLumen",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "Periportal",
+          "TransportDirection": "EffluxIntracellularToInterstitial",
+          "CompartmentName": "Interstitial"
+        },
+        {
+          "Name": "Periportal",
+          "TransportDirection": "ExcretionLiver",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "Pericentral",
+          "TransportDirection": "EffluxIntracellularToInterstitial",
+          "CompartmentName": "Interstitial"
+        },
+        {
+          "Name": "Pericentral",
+          "TransportDirection": "ExcretionLiver",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "Lung",
+          "TransportDirection": "EffluxIntracellularToInterstitial",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "Muscle",
+          "TransportDirection": "EffluxIntracellularToInterstitial",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "Pancreas",
+          "TransportDirection": "EffluxIntracellularToInterstitial",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "Skin",
+          "TransportDirection": "EffluxIntracellularToInterstitial",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "Spleen",
+          "TransportDirection": "EffluxIntracellularToInterstitial",
+          "CompartmentName": "Intracellular"
+        },
+        {
+          "Name": "BloodCells",
+          "TransportDirection": "EffluxBloodCellsToPlasma"
+        },
+        {
+          "Name": "VascularEndothelium",
+          "TransportDirection": "EffluxInterstitialToPlasma"
+        }
+      ],
+      "Ontogeny": {
+        "Name": "P-gp",
+        "Table": {
+          "Name": "TableFormula",
+          "Percentile": 0.0,
+          "DistributionMetaData": [
+            {
+              "Mean": 1E-14,
+              "Deviation": 1.6,
+              "Distribution": "LogNormal"
+            },
+            {
+              "Mean": 1.915059E-05,
+              "Deviation": 1.6,
+              "Distribution": "LogNormal"
+            },
+            {
+              "Mean": 5.486795E-05,
+              "Deviation": 1.6,
+              "Distribution": "LogNormal"
+            },
+            {
+              "Mean": 0.0001571905,
+              "Deviation": 1.6,
+              "Distribution": "LogNormal"
+            },
+            {
+              "Mean": 0.0004502473,
+              "Deviation": 1.6,
+              "Distribution": "LogNormal"
+            },
+            {
+              "Mean": 0.001288958,
+              "Deviation": 1.6,
+              "Distribution": "LogNormal"
+            },
+            {
+              "Mean": 0.00368424,
+              "Deviation": 1.6,
+              "Distribution": "LogNormal"
+            },
+            {
+              "Mean": 0.01048397,
+              "Deviation": 1.6,
+              "Distribution": "LogNormal"
+            },
+            {
+              "Mean": 0.02946235,
+              "Deviation": 1.6,
+              "Distribution": "LogNormal"
+            },
+            {
+              "Mean": 0.0800178,
+              "Deviation": 1.6,
+              "Distribution": "LogNormal"
+            },
+            {
+              "Mean": 0.1994918,
+              "Deviation": 1.6,
+              "Distribution": "LogNormal"
+            },
+            {
+              "Mean": 0.4165768,
+              "Deviation": 1.6,
+              "Distribution": "LogNormal"
+            },
+            {
+              "Mean": 0.6716791,
+              "Deviation": 1.6,
+              "Distribution": "LogNormal"
+            },
+            {
+              "Mean": 0.8542612,
+              "Deviation": 1.6,
+              "Distribution": "LogNormal"
+            },
+            {
+              "Mean": 0.943803,
+              "Deviation": 1.6,
+              "Distribution": "LogNormal"
+            },
+            {
+              "Mean": 0.9796414,
+              "Deviation": 1.6,
+              "Distribution": "LogNormal"
+            },
+            {
+              "Mean": 0.992799,
+              "Deviation": 1.6,
+              "Distribution": "LogNormal"
+            },
+            {
+              "Mean": 0.9974749,
+              "Deviation": 1.6,
+              "Distribution": "LogNormal"
+            },
+            {
+              "Mean": 0.9991173,
+              "Deviation": 1.6,
+              "Distribution": "LogNormal"
+            },
+            {
+              "Mean": 0.9996917,
+              "Deviation": 1.6,
+              "Distribution": "LogNormal"
+            },
+            {
+              "Mean": 0.9998924,
+              "Deviation": 1.6,
+              "Distribution": "LogNormal"
+            },
+            {
+              "Mean": 0.9999624,
+              "Deviation": 1.6,
+              "Distribution": "LogNormal"
+            },
+            {
+              "Mean": 0.9999869,
+              "Deviation": 1.6,
+              "Distribution": "LogNormal"
+            },
+            {
+              "Mean": 1.0,
+              "Deviation": 1.6,
+              "Distribution": "LogNormal"
+            }
+          ],
+          "XName": "Postmenstrual age",
+          "XDimension": "Age in years",
+          "XUnit": "year(s)",
+          "YName": "P-gp",
+          "YDimension": "Fraction",
+          "UseDerivedValues": false,
+          "Points": [
+            {
+              "X": 0.0,
+              "Y": 1E-14,
+              "RestartSolver": false
+            },
+            {
+              "X": 0.08333334,
+              "Y": 1.915059E-05,
+              "RestartSolver": false
+            },
+            {
+              "X": 0.1666667,
+              "Y": 5.486795E-05,
+              "RestartSolver": false
+            },
+            {
+              "X": 0.25,
+              "Y": 0.0001571905,
+              "RestartSolver": false
+            },
+            {
+              "X": 0.3333333,
+              "Y": 0.0004502473,
+              "RestartSolver": false
+            },
+            {
+              "X": 0.4166667,
+              "Y": 0.001288958,
+              "RestartSolver": false
+            },
+            {
+              "X": 0.5,
+              "Y": 0.00368424,
+              "RestartSolver": false
+            },
+            {
+              "X": 0.5833333,
+              "Y": 0.01048397,
+              "RestartSolver": false
+            },
+            {
+              "X": 0.6666667,
+              "Y": 0.02946235,
+              "RestartSolver": false
+            },
+            {
+              "X": 0.75,
+              "Y": 0.0800178,
+              "RestartSolver": false
+            },
+            {
+              "X": 0.8333333,
+              "Y": 0.1994918,
+              "RestartSolver": false
+            },
+            {
+              "X": 0.9166667,
+              "Y": 0.4165768,
+              "RestartSolver": false
+            },
+            {
+              "X": 1.0,
+              "Y": 0.6716791,
+              "RestartSolver": false
+            },
+            {
+              "X": 1.083333,
+              "Y": 0.8542612,
+              "RestartSolver": false
+            },
+            {
+              "X": 1.166667,
+              "Y": 0.943803,
+              "RestartSolver": false
+            },
+            {
+              "X": 1.25,
+              "Y": 0.9796414,
+              "RestartSolver": false
+            },
+            {
+              "X": 1.333333,
+              "Y": 0.992799,
+              "RestartSolver": false
+            },
+            {
+              "X": 1.416667,
+              "Y": 0.9974749,
+              "RestartSolver": false
+            },
+            {
+              "X": 1.5,
+              "Y": 0.9991173,
+              "RestartSolver": false
+            },
+            {
+              "X": 1.583333,
+              "Y": 0.9996917,
+              "RestartSolver": false
+            },
+            {
+              "X": 1.666667,
+              "Y": 0.9998924,
+              "RestartSolver": false
+            },
+            {
+              "X": 1.75,
+              "Y": 0.9999624,
+              "RestartSolver": false
+            },
+            {
+              "X": 1.833333,
+              "Y": 0.9999869,
+              "RestartSolver": false
+            },
+            {
+              "X": 3.333333,
+              "Y": 1.0,
+              "RestartSolver": false
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "Individuals": [
+    {
+      "Name": "European (P-gp modified, CYP3A4 36 h)",
+      "Seed": 17189110,
+      "OriginData": {
+        "CalculationMethods": [
+          "SurfaceAreaPlsInt_VAR1",
+          "Body surface area - Mosteller"
+        ],
+        "Species": "Human",
+        "Population": "European_ICRP_2002",
+        "Gender": "MALE",
+        "Age": {
+          "Value": 30.0,
+          "Unit": "year(s)"
+        }
+      },
+      "Parameters": [
+        {
+          "Path": "Organism|Liver|EHC continuous fraction",
+          "Value": 1.0,
+          "ValueOrigin": {
+            "Source": "Unknown"
+          }
+        }
+      ],
+      "ExpressionProfiles": [
+        "CYP3A4|Human|European (P-gp modified, CYP3A4 36 h)",
+        "AADAC|Human|European (P-gp modified, CYP3A4 36 h)",
+        "P-gp|Human|European (P-gp modified, CYP3A4 36 h)",
+        "OATP1B1|Human|European (P-gp modified, CYP3A4 36 h)",
+        "ATP1A2|Human|European (P-gp modified, CYP3A4 36 h)",
+        "UGT1A4|Human|European (P-gp modified, CYP3A4 36 h)",
+        "GABRG2|Human|European (P-gp modified, CYP3A4 36 h)"
+      ]
+    }
+  ],
+  "Compounds": [
+    {
+      "Name": "Itraconazole",
+      "IsSmallMolecule": true,
+      "PlasmaProteinBindingPartner": "Albumin",
+      "Lipophilicity": [
+        {
+          "Name": "Fit",
+          "Parameters": [
+            {
+              "Name": "Lipophilicity",
+              "Value": 4.624,
+              "Unit": "Log Units",
+              "ValueOrigin": {
+                "Source": "ParameterIdentification",
+                "Description": "Fit"
+              }
+            }
+          ]
+        }
+      ],
+      "FractionUnbound": [
+        {
+          "Name": "Templeton, 2008",
+          "Species": "Human",
+          "Parameters": [
+            {
+              "Name": "Fraction unbound (plasma, reference value)",
+              "Value": 0.6016197247,
+              "Unit": "%"
+            }
+          ]
+        }
+      ],
+      "Solubility": [
+        {
+          "Name": "Solution fasted (Taupitz et al. 2013)",
+          "Parameters": [
+            {
+              "Name": "Solubility at reference pH",
+              "Value": 8.0,
+              "Unit": "mg/l",
+              "ValueOrigin": {
+                "Source": "Publication",
+                "Description": "Taupitz et al. 2013"
+              }
+            },
+            {
+              "Name": "Reference pH",
+              "Value": 6.5,
+              "ValueOrigin": {
+                "Source": "Publication",
+                "Description": "Taupitz et al. 2013"
+              }
+            }
+          ]
+        },
+        {
+          "Name": "Solution fed",
+          "IsDefault": false,
+          "Parameters": [
+            {
+              "Name": "Solubility at reference pH",
+              "Value": 1.58,
+              "Unit": "mg/l"
+            },
+            {
+              "Name": "Reference pH",
+              "Value": 6.5
+            }
+          ]
+        },
+        {
+          "Name": "Capsule fasted",
+          "IsDefault": false,
+          "Parameters": [
+            {
+              "Name": "Solubility at reference pH",
+              "Value": 0.9728307177,
+              "Unit": "mg/l",
+              "ValueOrigin": {
+                "Source": "ParameterIdentification",
+                "Method": "ParameterIdentification",
+                "Description": "Value updated from 'Capsule fasted' on 2019-05-15 12:25"
+              }
+            },
+            {
+              "Name": "Reference pH",
+              "Value": 6.5
+            }
+          ]
+        },
+        {
+          "Name": "Capsule fed",
+          "IsDefault": false,
+          "Parameters": [
+            {
+              "Name": "Solubility at reference pH",
+              "Value": 0.7,
+              "Unit": "mg/l"
+            },
+            {
+              "Name": "Reference pH",
+              "Value": 6.5
+            }
+          ]
+        }
+      ],
+      "IntestinalPermeability": [
+        {
+          "Name": "Fit",
+          "Parameters": [
+            {
+              "Name": "Specific intestinal permeability (transcellular)",
+              "Value": 5.3261558344E-05,
+              "Unit": "dm/min",
+              "ValueOrigin": {
+                "Source": "ParameterIdentification",
+                "Description": "Fit"
+              }
+            }
+          ]
+        }
+      ],
+      "PkaTypes": [
+        {
+          "Type": "Base",
+          "Pka": 3.7,
+          "ValueOrigin": {
+            "Source": "Unknown"
+          }
+        }
+      ],
+      "Processes": [
+        {
+          "InternalName": "rCYP450_MM",
+          "DataSource": "Isoherranen 2004",
+          "Molecule": "CYP3A4",
+          "Metabolite": "Hydroxy-Itraconazole",
+          "Parameters": [
+            {
+              "Name": "In vitro Vmax/recombinant enzyme",
+              "Value": 0.27,
+              "Unit": "pmol/min/pmol rec. enzyme",
+              "ValueOrigin": {
+                "Source": "Publication",
+                "Description": "Isoherranen 2004"
+              }
+            },
+            {
+              "Name": "Km",
+              "Value": 2.0688492598,
+              "Unit": "nmol/l",
+              "ValueOrigin": {
+                "Source": "Publication",
+                "Description": "Isoherranen 2004"
+              }
+            },
+            {
+              "Name": "kcat",
+              "Value": 0.0402937875,
+              "Unit": "1/min",
+              "ValueOrigin": {
+                "Source": "Unknown"
+              }
+            }
+          ]
+        },
+        {
+          "InternalName": "GlomerularFiltration",
+          "DataSource": "GFR",
+          "Species": "Human",
+          "Parameters": [
+            {
+              "Name": "GFR fraction",
+              "Value": 1.0,
+              "ValueOrigin": {
+                "Source": "Publication",
+                "Description": "Isoherranen 2004"
+              }
+            }
+          ]
+        },
+        {
+          "InternalName": "CompetitiveInhibition",
+          "DataSource": "Isoherranen, 2004",
+          "Molecule": "CYP3A4",
+          "Parameters": [
+            {
+              "Name": "Ki",
+              "Value": 1.3,
+              "Unit": "nmol/l",
+              "ValueOrigin": {
+                "Source": "ParameterIdentification",
+                "Description": "Isoherranen, 2004"
+              }
+            }
+          ]
+        },
+        {
+          "InternalName": "CompetitiveInhibition",
+          "DataSource": "Shityakov 2014",
+          "Molecule": "ABCB1",
+          "Parameters": [
+            {
+              "Name": "Ki",
+              "Value": 0.008,
+              "Unit": "µmol/l",
+              "ValueOrigin": {
+                "Source": "Publication",
+                "Description": "Shityakov 2014"
+              }
+            }
+          ]
+        }
+      ],
+      "CalculationMethods": [
+        "Cellular partition coefficient method - Rodgers and Rowland",
+        "Cellular permeability - PK-Sim Standard"
+      ],
+      "Parameters": [
+        {
+          "Name": "Cl",
+          "Value": 2.0
+        },
+        {
+          "Name": "Molecular weight",
+          "Value": 705.633,
+          "Unit": "g/mol"
+        }
+      ]
+    },
+    {
+      "Name": "Hydroxy-Itraconazole",
+      "IsSmallMolecule": true,
+      "PlasmaProteinBindingPartner": "Albumin",
+      "Lipophilicity": [
+        {
+          "Name": "Fit",
+          "Parameters": [
+            {
+              "Name": "Lipophilicity",
+              "Value": 3.718,
+              "Unit": "Log Units"
+            }
+          ]
+        }
+      ],
+      "FractionUnbound": [
+        {
+          "Name": "Templeton, 2008",
+          "Species": "Human",
+          "Parameters": [
+            {
+              "Name": "Fraction unbound (plasma, reference value)",
+              "Value": 1.7,
+              "Unit": "%",
+              "ValueOrigin": {
+                "Source": "Publication",
+                "Description": "Templeton, 2008"
+              }
+            }
+          ]
+        }
+      ],
+      "Solubility": [
+        {
+          "Name": "No value available",
+          "Parameters": [
+            {
+              "Name": "Solubility at reference pH",
+              "Value": 1.0,
+              "Unit": "mg/l"
+            },
+            {
+              "Name": "Reference pH",
+              "Value": 7.0
+            }
+          ]
+        }
+      ],
+      "PkaTypes": [
+        {
+          "Type": "Base",
+          "Pka": 3.7,
+          "ValueOrigin": {
+            "Source": "Unknown"
+          }
+        }
+      ],
+      "Processes": [
+        {
+          "InternalName": "rCYP450_MM",
+          "DataSource": "Isoherranen 2004",
+          "Molecule": "CYP3A4",
+          "Metabolite": "Keto-Itraconazole",
+          "Parameters": [
+            {
+              "Name": "In vitro Vmax/recombinant enzyme",
+              "Value": 0.543,
+              "Unit": "nmol/min/pmol rec. enzyme",
+              "ValueOrigin": {
+                "Source": "Publication",
+                "Description": "Isoherranen 2004"
+              }
+            },
+            {
+              "Name": "Km",
+              "Value": 4.1716224833,
+              "Unit": "nmol/l",
+              "ValueOrigin": {
+                "Source": "Publication",
+                "Description": "Isoherranen 2004"
+              }
+            },
+            {
+              "Name": "kcat",
+              "Value": 0.0203370845,
+              "Unit": "1/min",
+              "ValueOrigin": {
+                "Source": "Unknown"
+              }
+            }
+          ]
+        },
+        {
+          "InternalName": "GlomerularFiltration",
+          "DataSource": "GFR",
+          "Species": "Human",
+          "Parameters": [
+            {
+              "Name": "GFR fraction",
+              "Value": 1.0,
+              "ValueOrigin": {
+                "Source": "Publication",
+                "Description": "Isoherranen, 2004"
+              }
+            }
+          ]
+        },
+        {
+          "InternalName": "CompetitiveInhibition",
+          "DataSource": "Isoherranen, 2004",
+          "Molecule": "CYP3A4",
+          "Parameters": [
+            {
+              "Name": "Ki",
+              "Value": 14.4,
+              "Unit": "nmol/l",
+              "ValueOrigin": {
+                "Source": "Publication",
+                "Description": "Isoherranen, 2004"
+              }
+            }
+          ]
+        },
+        {
+          "InternalName": "CompetitiveInhibition",
+          "DataSource": "Tuerk 2019",
+          "Molecule": "OATP1B1",
+          "Parameters": [
+            {
+              "Name": "Ki",
+              "Value": 0.0177818488,
+              "Unit": "µmol/l",
+              "ValueOrigin": {
+                "Source": "ParameterIdentification",
+                "Method": "ParameterIdentification"
+              }
+            }
+          ]
+        },
+        {
+          "InternalName": "CompetitiveInhibition",
+          "DataSource": "Tuerk 2019",
+          "Molecule": "OATP1B3",
+          "Parameters": [
+            {
+              "Name": "Ki",
+              "Value": 0.0111606334,
+              "Unit": "µmol/l",
+              "ValueOrigin": {
+                "Source": "ParameterIdentification",
+                "Method": "ParameterIdentification"
+              }
+            }
+          ]
+        }
+      ],
+      "CalculationMethods": [
+        "Cellular partition coefficient method - Rodgers and Rowland",
+        "Cellular permeability - PK-Sim Standard"
+      ],
+      "Parameters": [
+        {
+          "Name": "Cl",
+          "Value": 2.0
+        },
+        {
+          "Name": "Molecular weight",
+          "Value": 721.633,
+          "Unit": "g/mol"
+        }
+      ]
+    },
+    {
+      "Name": "Keto-Itraconazole",
+      "IsSmallMolecule": true,
+      "PlasmaProteinBindingPartner": "Albumin",
+      "Lipophilicity": [
+        {
+          "Name": "Fit",
+          "Parameters": [
+            {
+              "Name": "Lipophilicity",
+              "Value": 4.2109086248,
+              "Unit": "Log Units"
+            }
+          ]
+        }
+      ],
+      "FractionUnbound": [
+        {
+          "Name": "Templeton, 2008",
+          "Species": "Human",
+          "Parameters": [
+            {
+              "Name": "Fraction unbound (plasma, reference value)",
+              "Value": 1.0,
+              "Unit": "%",
+              "ValueOrigin": {
+                "Source": "Publication",
+                "Description": "Templeton, 2008"
+              }
+            }
+          ]
+        }
+      ],
+      "Solubility": [
+        {
+          "Name": "No value available",
+          "Parameters": [
+            {
+              "Name": "Solubility at reference pH",
+              "Value": 1.0,
+              "Unit": "mg/l"
+            },
+            {
+              "Name": "Reference pH",
+              "Value": 7.0
+            }
+          ]
+        }
+      ],
+      "PkaTypes": [
+        {
+          "Type": "Base",
+          "Pka": 3.7,
+          "ValueOrigin": {
+            "Source": "Unknown"
+          }
+        }
+      ],
+      "Processes": [
+        {
+          "InternalName": "rCYP450_MM",
+          "DataSource": "Isoherranen 2004",
+          "Molecule": "CYP3A4",
+          "Metabolite": "N-desalkyl-Itraconazole",
+          "Parameters": [
+            {
+              "Name": "In vitro Vmax/recombinant enzyme",
+              "Value": 0.0869,
+              "Unit": "pmol/min/pmol rec. enzyme",
+              "ValueOrigin": {
+                "Source": "Publication",
+                "Description": "Isoherranen 2004"
+              }
+            },
+            {
+              "Name": "Km",
+              "Value": 2.2214874285,
+              "Unit": "nmol/l",
+              "ValueOrigin": {
+                "Source": "Publication",
+                "Description": "Isoherranen 2004"
+              }
+            },
+            {
+              "Name": "kcat",
+              "Value": 0.3933927416,
+              "Unit": "1/min",
+              "ValueOrigin": {
+                "Source": "Unknown"
+              }
+            }
+          ]
+        },
+        {
+          "InternalName": "GlomerularFiltration",
+          "DataSource": "GFR",
+          "Species": "Human",
+          "Parameters": [
+            {
+              "Name": "GFR fraction",
+              "Value": 1.0,
+              "ValueOrigin": {
+                "Source": "Publication",
+                "Description": "Isoherranen 2004"
+              }
+            }
+          ]
+        },
+        {
+          "InternalName": "CompetitiveInhibition",
+          "DataSource": "Isoherranen, 2004",
+          "Molecule": "CYP3A4",
+          "Parameters": [
+            {
+              "Name": "Ki",
+              "Value": 5.12,
+              "Unit": "nmol/l",
+              "ValueOrigin": {
+                "Source": "Publication",
+                "Description": "Isoherranen 2004"
+              }
+            }
+          ]
+        }
+      ],
+      "CalculationMethods": [
+        "Cellular partition coefficient method - Rodgers and Rowland",
+        "Cellular permeability - PK-Sim Standard"
+      ],
+      "Parameters": [
+        {
+          "Name": "Cl",
+          "Value": 2.0
+        },
+        {
+          "Name": "Molecular weight",
+          "Value": 719.617,
+          "Unit": "g/mol"
+        }
+      ]
+    },
+    {
+      "Name": "N-desalkyl-Itraconazole",
+      "IsSmallMolecule": true,
+      "PlasmaProteinBindingPartner": "Albumin",
+      "Lipophilicity": [
+        {
+          "Name": "Fit",
+          "Parameters": [
+            {
+              "Name": "Lipophilicity",
+              "Value": 5.1837535822,
+              "Unit": "Log Units"
+            }
+          ]
+        }
+      ],
+      "FractionUnbound": [
+        {
+          "Name": "Templeton, 2008",
+          "Species": "Human",
+          "Parameters": [
+            {
+              "Name": "Fraction unbound (plasma, reference value)",
+              "Value": 1.1,
+              "Unit": "%",
+              "ValueOrigin": {
+                "Source": "Publication",
+                "Description": "Templeton, 2008"
+              }
+            }
+          ]
+        }
+      ],
+      "Solubility": [
+        {
+          "Name": "No value available",
+          "Parameters": [
+            {
+              "Name": "Solubility at reference pH",
+              "Value": 1.0,
+              "Unit": "mg/l"
+            },
+            {
+              "Name": "Reference pH",
+              "Value": 7.0
+            }
+          ]
+        }
+      ],
+      "PkaTypes": [
+        {
+          "Type": "Base",
+          "Pka": 3.7,
+          "ValueOrigin": {
+            "Source": "Unknown"
+          }
+        }
+      ],
+      "Processes": [
+        {
+          "InternalName": "rCYP450_MM",
+          "DataSource": "Isoherranen 2004",
+          "Molecule": "CYP3A4",
+          "Parameters": [
+            {
+              "Name": "In vitro Vmax/recombinant enzyme",
+              "Value": 0.0,
+              "Unit": "nmol/min/pmol rec. enzyme"
+            },
+            {
+              "Name": "Km",
+              "Value": 0.6284266369,
+              "Unit": "nmol/l",
+              "ValueOrigin": {
+                "Source": "Publication",
+                "Description": "Isoherranen 2004"
+              }
+            },
+            {
+              "Name": "kcat",
+              "Value": 0.0605873508,
+              "Unit": "1/min",
+              "ValueOrigin": {
+                "Source": "Unknown"
+              }
+            }
+          ]
+        },
+        {
+          "InternalName": "GlomerularFiltration",
+          "DataSource": "GFR",
+          "Species": "Human",
+          "Parameters": [
+            {
+              "Name": "GFR fraction",
+              "Value": 1.0,
+              "ValueOrigin": {
+                "Source": "Publication",
+                "Description": "Isoherranen 2004"
+              }
+            }
+          ]
+        },
+        {
+          "InternalName": "CompetitiveInhibition",
+          "DataSource": "Isoherranen, 2004",
+          "Molecule": "CYP3A4",
+          "Parameters": [
+            {
+              "Name": "Ki",
+              "Value": 0.32,
+              "Unit": "nmol/l",
+              "ValueOrigin": {
+                "Source": "Publication",
+                "Description": "Isoherranen, 2004"
+              }
+            }
+          ]
+        }
+      ],
+      "CalculationMethods": [
+        "Cellular partition coefficient method - Rodgers and Rowland",
+        "Cellular permeability - PK-Sim Standard"
+      ],
+      "Parameters": [
+        {
+          "Name": "Cl",
+          "Value": 2.0
+        },
+        {
+          "Name": "Molecular weight",
+          "Value": 649.527,
+          "Unit": "g/mol"
+        }
+      ]
+    },
+    {
+      "Name": "Digoxin",
+      "IsSmallMolecule": true,
+      "PlasmaProteinBindingPartner": "Albumin",
+      "Lipophilicity": [
+        {
+          "Name": "fitted",
+          "Parameters": [
+            {
+              "Name": "Lipophilicity",
+              "Value": 1.40017663,
+              "Unit": "Log Units",
+              "ValueOrigin": {
+                "Source": "ParameterIdentification",
+                "Method": "ParameterIdentification"
+              }
+            }
+          ]
+        }
+      ],
+      "FractionUnbound": [
+        {
+          "Name": "Neuhoff (2013)",
+          "Species": "Human",
+          "Parameters": [
+            {
+              "Name": "Fraction unbound (plasma, reference value)",
+              "Value": 0.71,
+              "ValueOrigin": {
+                "Source": "Publication",
+                "Method": "InVitro",
+                "Description": "Neuhoff 2013"
+              }
+            }
+          ]
+        }
+      ],
+      "Solubility": [
+        {
+          "Name": "Aqueous Solubility",
+          "Parameters": [
+            {
+              "Name": "Solubility at reference pH",
+              "Value": 64.8,
+              "Unit": "mg/l",
+              "ValueOrigin": {
+                "Source": "Internet",
+                "Method": "InVitro",
+                "Description": "Drugbank"
+              }
+            },
+            {
+              "Name": "Reference pH",
+              "Value": 7.0,
+              "ValueOrigin": {
+                "Source": "Internet",
+                "Method": "InVitro",
+                "Description": "Drugbank"
+              }
+            }
+          ]
+        }
+      ],
+      "IntestinalPermeability": [
+        {
+          "Name": "fitted",
+          "Parameters": [
+            {
+              "Name": "Specific intestinal permeability (transcellular)",
+              "Value": 2.7627E-07,
+              "Unit": "dm/min"
+            }
+          ]
+        }
+      ],
+      "Permeability": [
+        {
+          "Name": "fitted",
+          "Parameters": [
+            {
+              "Name": "Permeability",
+              "Value": 1.0115E-05,
+              "Unit": "dm/min"
+            }
+          ]
+        }
+      ],
+      "Processes": [
+        {
+          "InternalName": "SpecificBinding",
+          "DataSource": "Katz (2010)",
+          "Molecule": "ATP1A2",
+          "Parameters": [
+            {
+              "Name": "koff",
+              "Value": 0.00098888,
+              "Unit": "1/min",
+              "ValueOrigin": {
+                "Source": "Publication",
+                "Method": "InVitro",
+                "Description": "Katz 2010"
+              }
+            },
+            {
+              "Name": "Kd",
+              "Value": 25.6,
+              "Unit": "nmol/l",
+              "ValueOrigin": {
+                "Source": "ParameterIdentification"
+              }
+            }
+          ]
+        },
+        {
+          "InternalName": "LiverClearance",
+          "DataSource": "Fitted",
+          "Species": "Human",
+          "Parameters": [
+            {
+              "Name": "Fraction unbound (experiment)",
+              "Value": 0.71
+            },
+            {
+              "Name": "Lipophilicity (experiment)",
+              "Value": 1.40017663,
+              "Unit": "Log Units"
+            },
+            {
+              "Name": "Plasma clearance",
+              "Value": 0.0,
+              "Unit": "ml/min/kg"
+            },
+            {
+              "Name": "Specific clearance",
+              "Value": 0.03758077,
+              "Unit": "1/min",
+              "ValueOrigin": {
+                "Source": "ParameterIdentification"
+              }
+            }
+          ]
+        },
+        {
+          "InternalName": "ActiveTransportSpecific_MM",
+          "DataSource": "Stephens (2001)",
+          "Molecule": "P-gp",
+          "Parameters": [
+            {
+              "Name": "Transporter concentration",
+              "Value": 1.0,
+              "Unit": "µmol/l"
+            },
+            {
+              "Name": "Vmax",
+              "Value": 8.67,
+              "Unit": "µmol/l/min"
+            },
+            {
+              "Name": "Km",
+              "Value": 177.0,
+              "Unit": "µmol/l"
+            },
+            {
+              "Name": "kcat",
+              "Value": 71.163,
+              "Unit": "1/min",
+              "ValueOrigin": {
+                "Source": "ParameterIdentification"
+              }
+            }
+          ],
+          "Description": "A transporter mediated unidirectional transfer of a compound across a cellular membrane is described as saturable process following Michaelis-Menten type kinetics. The corresponding kcat value is calculated from a specific Vmax as input value."
+        },
+        {
+          "InternalName": "GlomerularFiltration",
+          "DataSource": "Steiness (1982)",
+          "Species": "Human",
+          "Parameters": [
+            {
+              "Name": "GFR fraction",
+              "Value": 1.0,
+              "ValueOrigin": {
+                "Source": "Publication",
+                "Description": "Steiness (1982)"
+              }
+            }
+          ]
+        }
+      ],
+      "CalculationMethods": [
+        "Cellular partition coefficient method - Rodgers and Rowland",
+        "Cellular permeability - PK-Sim Standard"
+      ],
+      "Parameters": [
+        {
+          "Name": "Molecular weight",
+          "Value": 780.93,
+          "Unit": "g/mol",
+          "ValueOrigin": {
+            "Source": "Internet",
+            "Method": "InVitro",
+            "Description": "Drugbank"
+          }
+        }
+      ]
+    }
+  ],
+  "Formulations": [
+    {
+      "Name": "Capsule fed",
+      "FormulationType": "Formulation_Tablet_Weibull",
+      "Parameters": [
+        {
+          "Name": "Dissolution time (50% dissolved)",
+          "Value": 138.95,
+          "Unit": "min"
+        },
+        {
+          "Name": "Lag time",
+          "Value": 0.0,
+          "Unit": "min"
+        },
+        {
+          "Name": "Dissolution shape",
+          "Value": 0.82
+        },
+        {
+          "Name": "Use as suspension",
+          "Value": 1.0
+        }
+      ]
+    },
+    {
+      "Name": "Capsule fasted",
+      "FormulationType": "Formulation_Tablet_Weibull",
+      "Parameters": [
+        {
+          "Name": "Dissolution time (50% dissolved)",
+          "Value": 406.3001802552,
+          "Unit": "min",
+          "ValueOrigin": {
+            "Source": "ParameterIdentification",
+            "Method": "ParameterIdentification",
+            "Description": "Value updated from 'Capsule fasted' on 2019-05-15 12:25"
+          }
+        },
+        {
+          "Name": "Lag time",
+          "Value": 0.0,
+          "Unit": "min"
+        },
+        {
+          "Name": "Dissolution shape",
+          "Value": 1.4297720052,
+          "ValueOrigin": {
+            "Source": "ParameterIdentification",
+            "Method": "ParameterIdentification",
+            "Description": "Value updated from 'Capsule fasted' on 2019-05-15 12:25"
+          }
+        },
+        {
+          "Name": "Use as suspension",
+          "Value": 1.0
+        }
+      ]
+    },
+    {
+      "Name": "Solution",
+      "FormulationType": "Formulation_Dissolved"
+    }
+  ],
+  "Protocols": [
+    {
+      "Name": "Jalava1997_TreatmentPhase_Itraconazole_caps_ 200mg_Day1-5",
+      "DosingInterval": "Single",
+      "Schemas": [
+        {
+          "Name": "Schema 1",
+          "SchemaItems": [
+            {
+              "Name": "Schema Item 1",
+              "ApplicationType": "Oral",
+              "FormulationKey": "Formulation",
+              "Parameters": [
+                {
+                  "Name": "Start time",
+                  "Value": 0.0,
+                  "Unit": "h"
+                },
+                {
+                  "Name": "InputDose",
+                  "Value": 200.0,
+                  "Unit": "mg"
+                },
+                {
+                  "Name": "Volume of water/body weight",
+                  "Value": 3.5,
+                  "Unit": "ml/kg"
+                }
+              ]
+            }
+          ],
+          "Parameters": [
+            {
+              "Name": "Start time",
+              "Value": 0.0,
+              "Unit": "h"
+            },
+            {
+              "Name": "NumberOfRepetitions",
+              "Value": 5.0
+            },
+            {
+              "Name": "TimeBetweenRepetitions",
+              "Value": 24.0,
+              "Unit": "h"
+            }
+          ]
+        }
+      ],
+      "TimeUnit": "h"
+    },
+    {
+      "Name": "Jalava1997_TreatmentPhase_Digoxin_0.5mg_Day3",
+      "DosingInterval": "Single",
+      "Schemas": [
+        {
+          "Name": "Schema 1",
+          "SchemaItems": [
+            {
+              "Name": "Schema Item 1",
+              "ApplicationType": "Oral",
+              "FormulationKey": "Formulation",
+              "Parameters": [
+                {
+                  "Name": "Start time",
+                  "Value": 0.0,
+                  "Unit": "h"
+                },
+                {
+                  "Name": "InputDose",
+                  "Value": 0.5,
+                  "Unit": "mg"
+                },
+                {
+                  "Name": "Volume of water/body weight",
+                  "Value": 3.5,
+                  "Unit": "ml/kg"
+                }
+              ]
+            }
+          ],
+          "Parameters": [
+            {
+              "Name": "Start time",
+              "Value": 49.0,
+              "Unit": "h"
+            },
+            {
+              "Name": "NumberOfRepetitions",
+              "Value": 1.0
+            },
+            {
+              "Name": "TimeBetweenRepetitions",
+              "Value": 0.0,
+              "Unit": "h"
+            }
+          ]
+        }
+      ],
+      "TimeUnit": "h"
+    },
+    {
+      "Name": "Jalava1997_ControlPhase_Digoxin_0.5mg",
+      "DosingInterval": "Single",
+      "Schemas": [
+        {
+          "Name": "Schema 1",
+          "SchemaItems": [
+            {
+              "Name": "Schema Item 1",
+              "ApplicationType": "Oral",
+              "FormulationKey": "Formulation",
+              "Parameters": [
+                {
+                  "Name": "Start time",
+                  "Value": 0.0,
+                  "Unit": "h"
+                },
+                {
+                  "Name": "InputDose",
+                  "Value": 0.5,
+                  "Unit": "mg"
+                },
+                {
+                  "Name": "Volume of water/body weight",
+                  "Value": 3.5,
+                  "Unit": "ml/kg"
+                }
+              ]
+            }
+          ],
+          "Parameters": [
+            {
+              "Name": "Start time",
+              "Value": 0.0,
+              "Unit": "h"
+            },
+            {
+              "Name": "NumberOfRepetitions",
+              "Value": 1.0
+            },
+            {
+              "Name": "TimeBetweenRepetitions",
+              "Value": 0.0,
+              "Unit": "h"
+            }
+          ]
+        }
+      ],
+      "TimeUnit": "h"
+    },
+    {
+      "Name": "Partanen1996_Itraconazole_Day1-10",
+      "DosingInterval": "Single",
+      "Schemas": [
+        {
+          "Name": "Schema 1",
+          "SchemaItems": [
+            {
+              "Name": "Schema Item 1",
+              "ApplicationType": "Oral",
+              "FormulationKey": "Formulation",
+              "Parameters": [
+                {
+                  "Name": "Start time",
+                  "Value": 0.0,
+                  "Unit": "h"
+                },
+                {
+                  "Name": "InputDose",
+                  "Value": 200.0,
+                  "Unit": "mg"
+                },
+                {
+                  "Name": "Volume of water/body weight",
+                  "Value": 3.5,
+                  "Unit": "ml/kg"
+                }
+              ]
+            }
+          ],
+          "Parameters": [
+            {
+              "Name": "Start time",
+              "Value": 0.0,
+              "Unit": "h"
+            },
+            {
+              "Name": "NumberOfRepetitions",
+              "Value": 10.0
+            },
+            {
+              "Name": "TimeBetweenRepetitions",
+              "Value": 24.0,
+              "Unit": "h"
+            }
+          ]
+        }
+      ],
+      "TimeUnit": "h"
+    },
+    {
+      "Name": "Partanen1996_Itraconazole_Day11-20",
+      "DosingInterval": "Single",
+      "Schemas": [
+        {
+          "Name": "Schema 1",
+          "SchemaItems": [
+            {
+              "Name": "Schema Item 1",
+              "ApplicationType": "Oral",
+              "FormulationKey": "Formulation",
+              "Parameters": [
+                {
+                  "Name": "Start time",
+                  "Value": 0.0,
+                  "Unit": "h"
+                },
+                {
+                  "Name": "InputDose",
+                  "Value": 200.0,
+                  "Unit": "mg"
+                },
+                {
+                  "Name": "Volume of water/body weight",
+                  "Value": 3.5,
+                  "Unit": "ml/kg"
+                }
+              ]
+            }
+          ],
+          "Parameters": [
+            {
+              "Name": "Start time",
+              "Value": 240.0,
+              "Unit": "h"
+            },
+            {
+              "Name": "NumberOfRepetitions",
+              "Value": 10.0
+            },
+            {
+              "Name": "TimeBetweenRepetitions",
+              "Value": 24.0,
+              "Unit": "h"
+            }
+          ]
+        }
+      ],
+      "TimeUnit": "h"
+    },
+    {
+      "Name": "Partanen1996_Digoxin_Day1-20",
+      "DosingInterval": "Single",
+      "Schemas": [
+        {
+          "Name": "Schema 1",
+          "SchemaItems": [
+            {
+              "Name": "Schema Item 1",
+              "ApplicationType": "Oral",
+              "FormulationKey": "Formulation",
+              "Parameters": [
+                {
+                  "Name": "Start time",
+                  "Value": 0.0,
+                  "Unit": "h"
+                },
+                {
+                  "Name": "InputDose",
+                  "Value": 0.25,
+                  "Unit": "mg"
+                },
+                {
+                  "Name": "Volume of water/body weight",
+                  "Value": 3.5,
+                  "Unit": "ml/kg"
+                }
+              ]
+            }
+          ],
+          "Parameters": [
+            {
+              "Name": "Start time",
+              "Value": 0.0,
+              "Unit": "h"
+            },
+            {
+              "Name": "NumberOfRepetitions",
+              "Value": 20.0
+            },
+            {
+              "Name": "TimeBetweenRepetitions",
+              "Value": 24.0,
+              "Unit": "h"
+            }
+          ]
+        }
+      ],
+      "TimeUnit": "h"
+    }
+  ],
+  "Events": [
+    {
+      "Name": "Dinner",
+      "Template": "Meal: Standard (Human)"
+    }
+  ],
+  "Simulations": [
+    {
+      "Name": "Jalava1997_Control",
+      "Model": "4Comp",
+      "ObservedData": [
+        "Jalava 1997 - po Control (Perpetrator Placebo) - Digoxin - PO - 0.5 mg - Serum - agg. (n=10)",
+        "Jalava 1997 - po Control (Perpetrator Placebo) - Digoxin - PO - 0.5 mg - Urine - agg. (n=10)"
+      ],
+      "Solver": {},
+      "OutputSchema": [
+        {
+          "Parameters": [
+            {
+              "Name": "Start time",
+              "Value": 0.0,
+              "Unit": "h"
+            },
+            {
+              "Name": "End time",
+              "Value": 2.0,
+              "Unit": "h"
+            },
+            {
+              "Name": "Resolution",
+              "Value": 20.0,
+              "Unit": "pts/h"
+            }
+          ]
+        },
+        {
+          "Parameters": [
+            {
+              "Name": "Start time",
+              "Value": 2.0,
+              "Unit": "h"
+            },
+            {
+              "Name": "End time",
+              "Value": 72.0,
+              "Unit": "h",
+              "ValueOrigin": {
+                "Source": "Unknown"
+              }
+            },
+            {
+              "Name": "Resolution",
+              "Value": 4.0,
+              "Unit": "pts/h"
+            }
+          ]
+        }
+      ],
+      "Parameters": [
+        {
+          "Path": "Applications|Jalava1997_ControlPhase_Digoxin_0.5mg|Solution|Application_1|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Undefined Liver|Reference concentration",
+          "Value": 1.0,
+          "Unit": "µmol/l"
+        },
+        {
+          "Path": "Undefined Liver|t1/2 (intestine)",
+          "Value": 1380.0,
+          "Unit": "min"
+        },
+        {
+          "Path": "Undefined Liver|t1/2 (liver)",
+          "Value": 2160.0,
+          "Unit": "min"
+        }
+      ],
+      "OutputSelections": [
+        "Organism|PeripheralVenousBlood|Digoxin|Plasma (Peripheral Venous Blood)",
+        "Organism|Kidney|Urine|Digoxin|Fraction excreted to urine",
+        "Organism|Kidney|Urine|Digoxin"
+      ],
+      "OutputMappings": [
+        {
+          "Scaling": "Log",
+          "Path": "Jalava1997_Control|Organism|PeripheralVenousBlood|Digoxin|Plasma (Peripheral Venous Blood)",
+          "ObservedData": "Jalava 1997 - po Control (Perpetrator Placebo) - Digoxin - PO - 0.5 mg - Serum - agg. (n=10)"
+        },
+        {
+          "Scaling": "Log",
+          "Path": "Jalava1997_Control|Organism|PeripheralVenousBlood|Digoxin|Plasma (Peripheral Venous Blood)",
+          "ObservedData": "Jalava 1997 - po Control (Perpetrator Placebo) - Digoxin - PO - 0.5 mg - Serum - agg. (n=10)"
+        },
+        {
+          "Scaling": "Log",
+          "Path": "Jalava1997_Control|Organism|PeripheralVenousBlood|Digoxin|Plasma (Peripheral Venous Blood)",
+          "ObservedData": "Jalava 1997 - po Control (Perpetrator Placebo) - Digoxin - PO - 0.5 mg - Serum - agg. (n=10)"
+        },
+        {
+          "Scaling": "Log",
+          "Path": "Jalava1997_Control|Organism|PeripheralVenousBlood|Digoxin|Plasma (Peripheral Venous Blood)",
+          "ObservedData": "Jalava 1997 - po Control (Perpetrator Placebo) - Digoxin - PO - 0.5 mg - Serum - agg. (n=10)"
+        }
+      ],
+      "Individual": "European (P-gp modified, CYP3A4 36 h)",
+      "Compounds": [
+        {
+          "Name": "Digoxin",
+          "CalculationMethods": [
+            "Cellular partition coefficient method - Rodgers and Rowland",
+            "Cellular permeability - PK-Sim Standard"
+          ],
+          "Alternatives": [
+            {
+              "AlternativeName": "fitted",
+              "GroupName": "COMPOUND_PERMEABILITY"
+            },
+            {
+              "AlternativeName": "fitted",
+              "GroupName": "COMPOUND_INTESTINAL_PERMEABILITY"
+            }
+          ],
+          "Processes": [
+            {
+              "MoleculeName": "CYP3A4"
+            },
+            {
+              "MoleculeName": "AADAC"
+            },
+            {
+              "MoleculeName": "UGT1A4"
+            },
+            {
+              "Name": "Total Hepatic Clearance-Fitted",
+              "SystemicProcessType": "Hepatic"
+            },
+            {
+              "Name": "P-gp-Stephens (2001)",
+              "MoleculeName": "P-gp"
+            },
+            {
+              "MoleculeName": "OATP1B1"
+            },
+            {
+              "MoleculeName": "P-gp"
+            },
+            {
+              "MoleculeName": "OATP1B1"
+            },
+            {
+              "Name": "Glomerular Filtration-Steiness (1982)",
+              "SystemicProcessType": "GFR"
+            },
+            {
+              "Name": "ATP1A2-Katz (2010)",
+              "MoleculeName": "ATP1A2"
+            },
+            {
+              "MoleculeName": "GABRG2"
+            }
+          ],
+          "Protocol": {
+            "Name": "Jalava1997_ControlPhase_Digoxin_0.5mg",
+            "Formulations": [
+              {
+                "Name": "Solution",
+                "Key": "Formulation"
+              }
+            ]
+          }
+        }
+      ],
+      "HasResults": true,
+      "IndividualAnalyses": [
+        {
+          "Axes": [
+            {
+              "Unit": "h",
+              "Dimension": "Time",
+              "Type": "X",
+              "GridLines": false,
+              "Visible": true,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "None",
+              "Scaling": "Linear",
+              "NumberMode": "Normal"
+            },
+            {
+              "Unit": "ng/ml",
+              "Dimension": "Concentration (molar)",
+              "Type": "Y",
+              "GridLines": false,
+              "Visible": true,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "Solid",
+              "Scaling": "Log",
+              "NumberMode": "Normal"
+            },
+            {
+              "Unit": "mg",
+              "Dimension": "Mass",
+              "Type": "Y2",
+              "GridLines": false,
+              "Visible": true,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "Dash",
+              "Scaling": "Linear",
+              "NumberMode": "Normal"
+            }
+          ],
+          "Curves": [
+            {
+              "Name": "Digoxin-Peripheral Venous Blood-Plasma-Concentration",
+              "X": "Time",
+              "Y": "Jalava1997_Control|Organism|PeripheralVenousBlood|Digoxin|Plasma (Peripheral Venous Blood)",
+              "CurveOptions": {
+                "Color": "#FF0000",
+                "LegendIndex": 1
+              }
+            },
+            {
+              "Name": "Jalava 1997 - po Control (Perpetrator Placebo) - Digoxin - PO - 0.5 mg - Serum - agg. (n=10)-Digoxin-Peripheral Venous Blood-Plasma-ArithmeticMean",
+              "X": "Jalava 1997 - po Control (Perpetrator Placebo) - Digoxin - PO - 0.5 mg - Serum - agg. (n=10)|Time",
+              "Y": "Jalava 1997 - po Control (Perpetrator Placebo) - Digoxin - PO - 0.5 mg - Serum - agg. (n=10)|ObservedData|Peripheral Venous Blood|Plasma|Digoxin|ArithmeticMean",
+              "CurveOptions": {
+                "Color": "#FF0000",
+                "LegendIndex": 2,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            },
+            {
+              "Name": "Jalava 1997 - po Control (Perpetrator Placebo) - Digoxin - PO - 0.5 mg - Urine - agg. (n=10)-Digoxin-Kidney-Urine-ArithmeticMean",
+              "X": "Jalava 1997 - po Control (Perpetrator Placebo) - Digoxin - PO - 0.5 mg - Urine - agg. (n=10)|Time",
+              "Y": "Jalava 1997 - po Control (Perpetrator Placebo) - Digoxin - PO - 0.5 mg - Urine - agg. (n=10)|ObservedData|Kidney|Urine|Digoxin|ArithmeticMean",
+              "CurveOptions": {
+                "yAxisType": "Y2",
+                "Color": "#008000",
+                "LegendIndex": 3,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            },
+            {
+              "Name": "Digoxin-Kidney-Urine-Amount in container",
+              "X": "Time",
+              "Y": "Jalava1997_Control|Organism|Kidney|Urine|Digoxin",
+              "CurveOptions": {
+                "yAxisType": "Y2",
+                "Color": "#008000",
+                "LegendIndex": 5,
+                "LineStyle": "Dash"
+              }
+            }
+          ],
+          "Name": "Time Profile Analysis",
+          "FontAndSize": {
+            "Fonts": {
+              "AxisSize": 10,
+              "LegendSize": 8,
+              "TitleSize": 16,
+              "DescriptionSize": 12,
+              "OriginSize": 8,
+              "FontFamilyName": "Microsoft Sans Serif",
+              "WatermarkSize": 32
+            }
+          },
+          "Settings": {
+            "SideMarginsEnabled": true,
+            "LegendPosition": "Bottom",
+            "BackColor": "#FFFFFF",
+            "DiagramBackColor": "#FFFFFF"
+          },
+          "OriginText": "Itraconazole-Digoxin-DDI\nJalava1997_Control\n2023-04-05 10:35"
+        }
+      ]
+    },
+    {
+      "Name": "Jalava1997_Treatment",
+      "Model": "4Comp",
+      "ObservedData": [
+        "Jalava 1997 - po with Perpetrator (Itraconazole) - Digoxin - PO - 0.5 mg - Serum - agg. (n=10)",
+        "Jalava 1997 - po with Perpetrator (Itraconazole) - Itraconazole - PO - 200 mg - Plasma - agg. (n=10)",
+        "Jalava 1997 - po with Perpetrator (Itraconazole) - Digoxin - PO - 0.5 mg - Urine - agg. (n=10)"
+      ],
+      "Solver": {},
+      "OutputSchema": [
+        {
+          "Parameters": [
+            {
+              "Name": "Start time",
+              "Value": 0.0,
+              "Unit": "h",
+              "ValueOrigin": {
+                "Source": "Unknown"
+              }
+            },
+            {
+              "Name": "End time",
+              "Value": 48.0,
+              "Unit": "h",
+              "ValueOrigin": {
+                "Source": "Unknown"
+              }
+            },
+            {
+              "Name": "Resolution",
+              "Value": 4.0,
+              "Unit": "pts/h"
+            }
+          ]
+        },
+        {
+          "Parameters": [
+            {
+              "Name": "Start time",
+              "Value": 48.0,
+              "Unit": "h",
+              "ValueOrigin": {
+                "Source": "Unknown"
+              }
+            },
+            {
+              "Name": "End time",
+              "Value": 51.0,
+              "Unit": "h",
+              "ValueOrigin": {
+                "Source": "Unknown"
+              }
+            },
+            {
+              "Name": "Resolution",
+              "Value": 20.0,
+              "Unit": "pts/h",
+              "ValueOrigin": {
+                "Source": "Unknown"
+              }
+            }
+          ]
+        },
+        {
+          "Parameters": [
+            {
+              "Name": "Start time",
+              "Value": 51.0,
+              "Unit": "h",
+              "ValueOrigin": {
+                "Source": "Unknown"
+              }
+            },
+            {
+              "Name": "End time",
+              "Value": 122.0,
+              "Unit": "h",
+              "ValueOrigin": {
+                "Source": "Unknown"
+              }
+            },
+            {
+              "Name": "Resolution",
+              "Value": 4.0,
+              "Unit": "pts/h"
+            }
+          ]
+        }
+      ],
+      "Parameters": [
+        {
+          "Path": "Applications|Jalava1997_TreatmentPhase_Digoxin_0.5mg_Day3|Solution|Application_1|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|Jalava1997_TreatmentPhase_Itraconazole_caps_ 200mg_Day1-5|Capsule fasted|Application_1|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|Jalava1997_TreatmentPhase_Itraconazole_caps_ 200mg_Day1-5|Capsule fasted|Application_2|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|Jalava1997_TreatmentPhase_Itraconazole_caps_ 200mg_Day1-5|Capsule fasted|Application_3|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|Jalava1997_TreatmentPhase_Itraconazole_caps_ 200mg_Day1-5|Capsule fasted|Application_4|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|Jalava1997_TreatmentPhase_Itraconazole_caps_ 200mg_Day1-5|Capsule fasted|Application_5|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Undefined Liver|Reference concentration",
+          "Value": 1.0,
+          "Unit": "µmol/l"
+        },
+        {
+          "Path": "Undefined Liver|t1/2 (intestine)",
+          "Value": 1380.0,
+          "Unit": "min"
+        },
+        {
+          "Path": "Undefined Liver|t1/2 (liver)",
+          "Value": 2160.0,
+          "Unit": "min"
+        }
+      ],
+      "OutputSelections": [
+        "Organism|PeripheralVenousBlood|Digoxin|Plasma (Peripheral Venous Blood)",
+        "Organism|PeripheralVenousBlood|Itraconazole|Plasma (Peripheral Venous Blood)",
+        "Organism|Kidney|Urine|Digoxin"
+      ],
+      "OutputMappings": [
+        {
+          "Scaling": "Log",
+          "Path": "Jalava1997_Treatment|Organism|PeripheralVenousBlood|Digoxin|Plasma (Peripheral Venous Blood)",
+          "ObservedData": "Jalava 1997 - po with Perpetrator (Itraconazole) - Digoxin - PO - 0.5 mg - Serum - agg. (n=10)"
+        },
+        {
+          "Scaling": "Log",
+          "Path": "Jalava1997_Treatment|Organism|Kidney|Urine|Digoxin",
+          "ObservedData": "Jalava 1997 - po with Perpetrator (Itraconazole) - Digoxin - PO - 0.5 mg - Urine - agg. (n=10)"
+        }
+      ],
+      "Individual": "European (P-gp modified, CYP3A4 36 h)",
+      "Compounds": [
+        {
+          "Name": "Digoxin",
+          "CalculationMethods": [
+            "Cellular partition coefficient method - Rodgers and Rowland",
+            "Cellular permeability - PK-Sim Standard"
+          ],
+          "Alternatives": [
+            {
+              "AlternativeName": "fitted",
+              "GroupName": "COMPOUND_PERMEABILITY"
+            },
+            {
+              "AlternativeName": "fitted",
+              "GroupName": "COMPOUND_INTESTINAL_PERMEABILITY"
+            }
+          ],
+          "Processes": [
+            {
+              "MoleculeName": "CYP3A4"
+            },
+            {
+              "MoleculeName": "AADAC"
+            },
+            {
+              "MoleculeName": "UGT1A4"
+            },
+            {
+              "Name": "Total Hepatic Clearance-Fitted",
+              "SystemicProcessType": "Hepatic"
+            },
+            {
+              "Name": "P-gp-Stephens (2001)",
+              "MoleculeName": "P-gp"
+            },
+            {
+              "MoleculeName": "OATP1B1"
+            },
+            {
+              "MoleculeName": "P-gp"
+            },
+            {
+              "MoleculeName": "OATP1B1"
+            },
+            {
+              "Name": "Glomerular Filtration-Steiness (1982)",
+              "SystemicProcessType": "GFR"
+            },
+            {
+              "Name": "ATP1A2-Katz (2010)",
+              "MoleculeName": "ATP1A2"
+            },
+            {
+              "MoleculeName": "GABRG2"
+            }
+          ],
+          "Protocol": {
+            "Name": "Jalava1997_TreatmentPhase_Digoxin_0.5mg_Day3",
+            "Formulations": [
+              {
+                "Name": "Solution",
+                "Key": "Formulation"
+              }
+            ]
+          }
+        },
+        {
+          "Name": "Hydroxy-Itraconazole",
+          "CalculationMethods": [
+            "Cellular partition coefficient method - Rodgers and Rowland",
+            "Cellular permeability - PK-Sim Standard"
+          ],
+          "Processes": [
+            {
+              "Name": "CYP3A4-Isoherranen 2004",
+              "MoleculeName": "CYP3A4",
+              "MetaboliteName": "Keto-Itraconazole"
+            },
+            {
+              "MoleculeName": "AADAC"
+            },
+            {
+              "MoleculeName": "UGT1A4"
+            },
+            {
+              "Name": "Glomerular Filtration-GFR",
+              "SystemicProcessType": "GFR"
+            }
+          ]
+        },
+        {
+          "Name": "Itraconazole",
+          "CalculationMethods": [
+            "Cellular partition coefficient method - Rodgers and Rowland",
+            "Cellular permeability - PK-Sim Standard"
+          ],
+          "Alternatives": [
+            {
+              "AlternativeName": "Capsule fasted",
+              "GroupName": "COMPOUND_SOLUBILITY"
+            },
+            {
+              "AlternativeName": "Fit",
+              "GroupName": "COMPOUND_INTESTINAL_PERMEABILITY"
+            }
+          ],
+          "Processes": [
+            {
+              "Name": "CYP3A4-Isoherranen 2004",
+              "MoleculeName": "CYP3A4",
+              "MetaboliteName": "Hydroxy-Itraconazole"
+            },
+            {
+              "MoleculeName": "AADAC"
+            },
+            {
+              "MoleculeName": "UGT1A4"
+            },
+            {
+              "Name": "Glomerular Filtration-GFR",
+              "SystemicProcessType": "GFR"
+            }
+          ],
+          "Protocol": {
+            "Name": "Jalava1997_TreatmentPhase_Itraconazole_caps_ 200mg_Day1-5",
+            "Formulations": [
+              {
+                "Name": "Capsule fasted",
+                "Key": "Formulation"
+              }
+            ]
+          }
+        },
+        {
+          "Name": "Keto-Itraconazole",
+          "CalculationMethods": [
+            "Cellular partition coefficient method - Rodgers and Rowland",
+            "Cellular permeability - PK-Sim Standard"
+          ],
+          "Processes": [
+            {
+              "Name": "CYP3A4-Isoherranen 2004",
+              "MoleculeName": "CYP3A4",
+              "MetaboliteName": "N-desalkyl-Itraconazole"
+            },
+            {
+              "MoleculeName": "AADAC"
+            },
+            {
+              "MoleculeName": "UGT1A4"
+            },
+            {
+              "Name": "Glomerular Filtration-GFR",
+              "SystemicProcessType": "GFR"
+            }
+          ]
+        },
+        {
+          "Name": "N-desalkyl-Itraconazole",
+          "CalculationMethods": [
+            "Cellular partition coefficient method - Rodgers and Rowland",
+            "Cellular permeability - PK-Sim Standard"
+          ],
+          "Processes": [
+            {
+              "Name": "CYP3A4-Isoherranen 2004",
+              "MoleculeName": "CYP3A4"
+            },
+            {
+              "MoleculeName": "AADAC"
+            },
+            {
+              "MoleculeName": "UGT1A4"
+            },
+            {
+              "Name": "Glomerular Filtration-GFR",
+              "SystemicProcessType": "GFR"
+            }
+          ]
+        }
+      ],
+      "HasResults": true,
+      "IndividualAnalyses": [
+        {
+          "Axes": [
+            {
+              "Unit": "h",
+              "Dimension": "Time",
+              "Type": "X",
+              "GridLines": false,
+              "Visible": true,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "None",
+              "Scaling": "Linear",
+              "NumberMode": "Normal"
+            },
+            {
+              "Unit": "µmol/l",
+              "Dimension": "Concentration (molar)",
+              "Type": "Y",
+              "GridLines": false,
+              "Visible": true,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "Solid",
+              "Scaling": "Log",
+              "NumberMode": "Normal"
+            },
+            {
+              "Unit": "µmol",
+              "Dimension": "Amount",
+              "Type": "Y2",
+              "GridLines": false,
+              "Visible": true,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "Dash",
+              "Scaling": "Linear",
+              "NumberMode": "Normal"
+            }
+          ],
+          "Curves": [
+            {
+              "Name": "Digoxin-Peripheral Venous Blood-Plasma-Concentration",
+              "X": "Time",
+              "Y": "Jalava1997_Treatment|Organism|PeripheralVenousBlood|Digoxin|Plasma (Peripheral Venous Blood)",
+              "CurveOptions": {
+                "Color": "#FF0000",
+                "LegendIndex": 1
+              }
+            },
+            {
+              "Name": "Itraconazole-Peripheral Venous Blood-Plasma-Concentration",
+              "X": "Time",
+              "Y": "Jalava1997_Treatment|Organism|PeripheralVenousBlood|Itraconazole|Plasma (Peripheral Venous Blood)",
+              "CurveOptions": {
+                "Color": "#0000FF",
+                "LegendIndex": 3
+              }
+            },
+            {
+              "Name": "Jalava 1997 - po with Perpetrator (Itraconazole) - Digoxin - PO - 0.5 mg - Urine - agg. (n=10)-Digoxin-Kidney-Urine-ArithmeticMean",
+              "X": "Jalava 1997 - po with Perpetrator (Itraconazole) - Digoxin - PO - 0.5 mg - Urine - agg. (n=10)|Time",
+              "Y": "Jalava 1997 - po with Perpetrator (Itraconazole) - Digoxin - PO - 0.5 mg - Urine - agg. (n=10)|ObservedData|Kidney|Urine|Digoxin|ArithmeticMean",
+              "CurveOptions": {
+                "yAxisType": "Y2",
+                "Color": "#008000",
+                "LegendIndex": 9,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            },
+            {
+              "Name": "Digoxin-Kidney-Urine-Amount in container",
+              "X": "Time",
+              "Y": "Jalava1997_Treatment|Organism|Kidney|Urine|Digoxin",
+              "CurveOptions": {
+                "yAxisType": "Y2",
+                "Color": "#008000",
+                "LegendIndex": 8,
+                "LineStyle": "Dash"
+              }
+            },
+            {
+              "Name": "Jalava 1997 - po with Perpetrator (Itraconazole) - Digoxin - PO - 0.5 mg - Serum - agg. (n=10)-Digoxin-Peripheral Venous Blood-Plasma-ArithmeticMean",
+              "X": "Jalava 1997 - po with Perpetrator (Itraconazole) - Digoxin - PO - 0.5 mg - Serum - agg. (n=10)|Time",
+              "Y": "Jalava 1997 - po with Perpetrator (Itraconazole) - Digoxin - PO - 0.5 mg - Serum - agg. (n=10)|ObservedData|Peripheral Venous Blood|Plasma|Digoxin|ArithmeticMean",
+              "CurveOptions": {
+                "Color": "#FF0000",
+                "LegendIndex": 6,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            },
+            {
+              "Name": "Jalava 1997 - po with Perpetrator (Itraconazole) - Itraconazole - PO - 200 mg - Plasma - agg. (n=10)-Itraconazole-Peripheral Venous Blood-Plasma-ArithmeticMean",
+              "X": "Jalava 1997 - po with Perpetrator (Itraconazole) - Itraconazole - PO - 200 mg - Plasma - agg. (n=10)|Time",
+              "Y": "Jalava 1997 - po with Perpetrator (Itraconazole) - Itraconazole - PO - 200 mg - Plasma - agg. (n=10)|ObservedData|Peripheral Venous Blood|Plasma|Itraconazole|ArithmeticMean",
+              "CurveOptions": {
+                "Color": "#0000FF",
+                "LegendIndex": 7,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            }
+          ],
+          "Name": "Time Profile Analysis",
+          "FontAndSize": {
+            "Fonts": {
+              "AxisSize": 10,
+              "LegendSize": 8,
+              "TitleSize": 16,
+              "DescriptionSize": 12,
+              "OriginSize": 8,
+              "FontFamilyName": "Microsoft Sans Serif",
+              "WatermarkSize": 32
+            }
+          },
+          "Settings": {
+            "SideMarginsEnabled": true,
+            "LegendPosition": "Bottom",
+            "BackColor": "#FFFFFF",
+            "DiagramBackColor": "#FFFFFF"
+          },
+          "OriginText": "Itraconazole-Digoxin-DDI\nJalava1997_Treatment\n2023-04-05 10:37"
+        }
+      ],
+      "Interactions": [
+        {
+          "Name": "ABCB1-Shityakov 2014",
+          "MoleculeName": "P-gp",
+          "CompoundName": "Itraconazole"
+        },
+        {
+          "Name": "CYP3A4-Isoherranen, 2004",
+          "MoleculeName": "CYP3A4",
+          "CompoundName": "Hydroxy-Itraconazole"
+        },
+        {
+          "Name": "CYP3A4-Isoherranen, 2004",
+          "MoleculeName": "CYP3A4",
+          "CompoundName": "Itraconazole"
+        },
+        {
+          "Name": "CYP3A4-Isoherranen, 2004",
+          "MoleculeName": "CYP3A4",
+          "CompoundName": "Keto-Itraconazole"
+        },
+        {
+          "Name": "CYP3A4-Isoherranen, 2004",
+          "MoleculeName": "CYP3A4",
+          "CompoundName": "N-desalkyl-Itraconazole"
+        }
+      ]
+    },
+    {
+      "Name": "Partanen1996_Group1",
+      "Model": "4Comp",
+      "ObservedData": [
+        "Partanen 1996 - Digoxin + Itraconazole Group 1 - Itraconazole - PO - 200 mg - serum - agg. (n=5)",
+        "Partanen 1996 - Digoxin + Itraconazole Group 1 - Digoxin - PO - 0.25 mg - serum - agg. (n=5)"
+      ],
+      "Solver": {},
+      "OutputSchema": [
+        {
+          "Parameters": [
+            {
+              "Name": "Start time",
+              "Value": 0.0,
+              "Unit": "h",
+              "ValueOrigin": {
+                "Source": "Unknown"
+              }
+            },
+            {
+              "Name": "End time",
+              "Value": 480.0,
+              "Unit": "h",
+              "ValueOrigin": {
+                "Source": "Unknown"
+              }
+            },
+            {
+              "Name": "Resolution",
+              "Value": 20.0,
+              "Unit": "pts/h",
+              "ValueOrigin": {
+                "Source": "Unknown"
+              }
+            }
+          ]
+        }
+      ],
+      "Parameters": [
+        {
+          "Path": "Applications|Partanen1996_Digoxin_Day1-20|Solution|Application_1|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|Partanen1996_Digoxin_Day1-20|Solution|Application_10|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|Partanen1996_Digoxin_Day1-20|Solution|Application_11|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|Partanen1996_Digoxin_Day1-20|Solution|Application_12|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|Partanen1996_Digoxin_Day1-20|Solution|Application_13|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|Partanen1996_Digoxin_Day1-20|Solution|Application_14|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|Partanen1996_Digoxin_Day1-20|Solution|Application_15|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|Partanen1996_Digoxin_Day1-20|Solution|Application_16|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|Partanen1996_Digoxin_Day1-20|Solution|Application_17|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|Partanen1996_Digoxin_Day1-20|Solution|Application_18|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|Partanen1996_Digoxin_Day1-20|Solution|Application_19|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|Partanen1996_Digoxin_Day1-20|Solution|Application_2|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|Partanen1996_Digoxin_Day1-20|Solution|Application_20|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|Partanen1996_Digoxin_Day1-20|Solution|Application_3|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|Partanen1996_Digoxin_Day1-20|Solution|Application_4|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|Partanen1996_Digoxin_Day1-20|Solution|Application_5|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|Partanen1996_Digoxin_Day1-20|Solution|Application_6|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|Partanen1996_Digoxin_Day1-20|Solution|Application_7|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|Partanen1996_Digoxin_Day1-20|Solution|Application_8|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|Partanen1996_Digoxin_Day1-20|Solution|Application_9|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|Partanen1996_Itraconazole_Day1-10|Capsule fed|Application_1|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|Partanen1996_Itraconazole_Day1-10|Capsule fed|Application_10|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|Partanen1996_Itraconazole_Day1-10|Capsule fed|Application_2|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|Partanen1996_Itraconazole_Day1-10|Capsule fed|Application_3|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|Partanen1996_Itraconazole_Day1-10|Capsule fed|Application_4|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|Partanen1996_Itraconazole_Day1-10|Capsule fed|Application_5|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|Partanen1996_Itraconazole_Day1-10|Capsule fed|Application_6|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|Partanen1996_Itraconazole_Day1-10|Capsule fed|Application_7|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|Partanen1996_Itraconazole_Day1-10|Capsule fed|Application_8|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|Partanen1996_Itraconazole_Day1-10|Capsule fed|Application_9|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Undefined Liver|Reference concentration",
+          "Value": 1.0,
+          "Unit": "µmol/l"
+        },
+        {
+          "Path": "Undefined Liver|t1/2 (intestine)",
+          "Value": 1380.0,
+          "Unit": "min"
+        },
+        {
+          "Path": "Undefined Liver|t1/2 (liver)",
+          "Value": 2160.0,
+          "Unit": "min"
+        }
+      ],
+      "OutputSelections": [
+        "Organism|PeripheralVenousBlood|Digoxin|Plasma (Peripheral Venous Blood)",
+        "Organism|PeripheralVenousBlood|Hydroxy-Itraconazole|Plasma (Peripheral Venous Blood)",
+        "Organism|PeripheralVenousBlood|Itraconazole|Plasma (Peripheral Venous Blood)",
+        "Organism|PeripheralVenousBlood|Keto-Itraconazole|Plasma (Peripheral Venous Blood)",
+        "Organism|PeripheralVenousBlood|N-desalkyl-Itraconazole|Plasma (Peripheral Venous Blood)"
+      ],
+      "OutputMappings": [
+        {
+          "Scaling": "Log",
+          "Path": "Partanen1996_Group1|Organism|PeripheralVenousBlood|Hydroxy-Itraconazole|Plasma (Peripheral Venous Blood)",
+          "ObservedData": "Partanen 1996 - Digoxin + Itraconazole Group 1 - Itraconazole - PO - 200 mg - serum - agg. (n=5)"
+        },
+        {
+          "Scaling": "Log",
+          "Path": "Partanen1996_Group1|Organism|PeripheralVenousBlood|Digoxin|Plasma (Peripheral Venous Blood)",
+          "ObservedData": "Partanen 1996 - Digoxin + Itraconazole Group 1 - Digoxin - PO - 0.25 mg - serum - agg. (n=5)"
+        }
+      ],
+      "Individual": "European (P-gp modified, CYP3A4 36 h)",
+      "Compounds": [
+        {
+          "Name": "Digoxin",
+          "CalculationMethods": [
+            "Cellular partition coefficient method - Rodgers and Rowland",
+            "Cellular permeability - PK-Sim Standard"
+          ],
+          "Alternatives": [
+            {
+              "AlternativeName": "fitted",
+              "GroupName": "COMPOUND_PERMEABILITY"
+            },
+            {
+              "AlternativeName": "fitted",
+              "GroupName": "COMPOUND_INTESTINAL_PERMEABILITY"
+            }
+          ],
+          "Processes": [
+            {
+              "MoleculeName": "CYP3A4"
+            },
+            {
+              "MoleculeName": "AADAC"
+            },
+            {
+              "MoleculeName": "UGT1A4"
+            },
+            {
+              "Name": "Total Hepatic Clearance-Fitted",
+              "SystemicProcessType": "Hepatic"
+            },
+            {
+              "Name": "P-gp-Stephens (2001)",
+              "MoleculeName": "P-gp"
+            },
+            {
+              "MoleculeName": "OATP1B1"
+            },
+            {
+              "MoleculeName": "P-gp"
+            },
+            {
+              "MoleculeName": "OATP1B1"
+            },
+            {
+              "Name": "Glomerular Filtration-Steiness (1982)",
+              "SystemicProcessType": "GFR"
+            },
+            {
+              "Name": "ATP1A2-Katz (2010)",
+              "MoleculeName": "ATP1A2"
+            },
+            {
+              "MoleculeName": "GABRG2"
+            }
+          ],
+          "Protocol": {
+            "Name": "Partanen1996_Digoxin_Day1-20",
+            "Formulations": [
+              {
+                "Name": "Solution",
+                "Key": "Formulation"
+              }
+            ]
+          }
+        },
+        {
+          "Name": "Hydroxy-Itraconazole",
+          "CalculationMethods": [
+            "Cellular partition coefficient method - Rodgers and Rowland",
+            "Cellular permeability - PK-Sim Standard"
+          ],
+          "Processes": [
+            {
+              "Name": "CYP3A4-Isoherranen 2004",
+              "MoleculeName": "CYP3A4",
+              "MetaboliteName": "Keto-Itraconazole"
+            },
+            {
+              "MoleculeName": "AADAC"
+            },
+            {
+              "MoleculeName": "UGT1A4"
+            },
+            {
+              "Name": "Glomerular Filtration-GFR",
+              "SystemicProcessType": "GFR"
+            }
+          ]
+        },
+        {
+          "Name": "Itraconazole",
+          "CalculationMethods": [
+            "Cellular partition coefficient method - Rodgers and Rowland",
+            "Cellular permeability - PK-Sim Standard"
+          ],
+          "Alternatives": [
+            {
+              "AlternativeName": "Capsule fed",
+              "GroupName": "COMPOUND_SOLUBILITY"
+            },
+            {
+              "AlternativeName": "Fit",
+              "GroupName": "COMPOUND_INTESTINAL_PERMEABILITY"
+            }
+          ],
+          "Processes": [
+            {
+              "Name": "CYP3A4-Isoherranen 2004",
+              "MoleculeName": "CYP3A4",
+              "MetaboliteName": "Hydroxy-Itraconazole"
+            },
+            {
+              "MoleculeName": "AADAC"
+            },
+            {
+              "MoleculeName": "UGT1A4"
+            },
+            {
+              "Name": "Glomerular Filtration-GFR",
+              "SystemicProcessType": "GFR"
+            }
+          ],
+          "Protocol": {
+            "Name": "Partanen1996_Itraconazole_Day1-10",
+            "Formulations": [
+              {
+                "Name": "Capsule fed",
+                "Key": "Formulation"
+              }
+            ]
+          }
+        },
+        {
+          "Name": "Keto-Itraconazole",
+          "CalculationMethods": [
+            "Cellular partition coefficient method - Rodgers and Rowland",
+            "Cellular permeability - PK-Sim Standard"
+          ],
+          "Processes": [
+            {
+              "Name": "CYP3A4-Isoherranen 2004",
+              "MoleculeName": "CYP3A4",
+              "MetaboliteName": "N-desalkyl-Itraconazole"
+            },
+            {
+              "MoleculeName": "AADAC"
+            },
+            {
+              "MoleculeName": "UGT1A4"
+            },
+            {
+              "Name": "Glomerular Filtration-GFR",
+              "SystemicProcessType": "GFR"
+            }
+          ]
+        },
+        {
+          "Name": "N-desalkyl-Itraconazole",
+          "CalculationMethods": [
+            "Cellular partition coefficient method - Rodgers and Rowland",
+            "Cellular permeability - PK-Sim Standard"
+          ],
+          "Processes": [
+            {
+              "Name": "CYP3A4-Isoherranen 2004",
+              "MoleculeName": "CYP3A4"
+            },
+            {
+              "MoleculeName": "AADAC"
+            },
+            {
+              "MoleculeName": "UGT1A4"
+            },
+            {
+              "Name": "Glomerular Filtration-GFR",
+              "SystemicProcessType": "GFR"
+            }
+          ]
+        }
+      ],
+      "Events": [
+        {
+          "Name": "Dinner",
+          "StartTime": {
+            "Value": 0.0,
+            "Unit": "h"
+          }
+        },
+        {
+          "Name": "Dinner",
+          "StartTime": {
+            "Value": 24.0,
+            "Unit": "h",
+            "ValueOrigin": {
+              "Source": "Unknown"
+            }
+          }
+        },
+        {
+          "Name": "Dinner",
+          "StartTime": {
+            "Value": 48.0,
+            "Unit": "h",
+            "ValueOrigin": {
+              "Source": "Unknown"
+            }
+          }
+        },
+        {
+          "Name": "Dinner",
+          "StartTime": {
+            "Value": 72.0,
+            "Unit": "h",
+            "ValueOrigin": {
+              "Source": "Unknown"
+            }
+          }
+        },
+        {
+          "Name": "Dinner",
+          "StartTime": {
+            "Value": 96.0,
+            "Unit": "h",
+            "ValueOrigin": {
+              "Source": "Unknown"
+            }
+          }
+        },
+        {
+          "Name": "Dinner",
+          "StartTime": {
+            "Value": 120.0,
+            "Unit": "h",
+            "ValueOrigin": {
+              "Source": "Unknown"
+            }
+          }
+        },
+        {
+          "Name": "Dinner",
+          "StartTime": {
+            "Value": 144.0,
+            "Unit": "h",
+            "ValueOrigin": {
+              "Source": "Unknown"
+            }
+          }
+        },
+        {
+          "Name": "Dinner",
+          "StartTime": {
+            "Value": 168.0,
+            "Unit": "h",
+            "ValueOrigin": {
+              "Source": "Unknown"
+            }
+          }
+        },
+        {
+          "Name": "Dinner",
+          "StartTime": {
+            "Value": 192.0,
+            "Unit": "h",
+            "ValueOrigin": {
+              "Source": "Unknown"
+            }
+          }
+        },
+        {
+          "Name": "Dinner",
+          "StartTime": {
+            "Value": 216.0,
+            "Unit": "h",
+            "ValueOrigin": {
+              "Source": "Unknown"
+            }
+          }
+        },
+        {
+          "Name": "Dinner",
+          "StartTime": {
+            "Value": 240.0,
+            "Unit": "h",
+            "ValueOrigin": {
+              "Source": "Unknown"
+            }
+          }
+        },
+        {
+          "Name": "Dinner",
+          "StartTime": {
+            "Value": 264.0,
+            "Unit": "h",
+            "ValueOrigin": {
+              "Source": "Unknown"
+            }
+          }
+        },
+        {
+          "Name": "Dinner",
+          "StartTime": {
+            "Value": 288.0,
+            "Unit": "h",
+            "ValueOrigin": {
+              "Source": "Unknown"
+            }
+          }
+        },
+        {
+          "Name": "Dinner",
+          "StartTime": {
+            "Value": 312.0,
+            "Unit": "h",
+            "ValueOrigin": {
+              "Source": "Unknown"
+            }
+          }
+        },
+        {
+          "Name": "Dinner",
+          "StartTime": {
+            "Value": 336.0,
+            "Unit": "h",
+            "ValueOrigin": {
+              "Source": "Unknown"
+            }
+          }
+        },
+        {
+          "Name": "Dinner",
+          "StartTime": {
+            "Value": 360.0,
+            "Unit": "h",
+            "ValueOrigin": {
+              "Source": "Unknown"
+            }
+          }
+        },
+        {
+          "Name": "Dinner",
+          "StartTime": {
+            "Value": 384.0,
+            "Unit": "h",
+            "ValueOrigin": {
+              "Source": "Unknown"
+            }
+          }
+        },
+        {
+          "Name": "Dinner",
+          "StartTime": {
+            "Value": 408.0,
+            "Unit": "h",
+            "ValueOrigin": {
+              "Source": "Unknown"
+            }
+          }
+        },
+        {
+          "Name": "Dinner",
+          "StartTime": {
+            "Value": 432.0,
+            "Unit": "h",
+            "ValueOrigin": {
+              "Source": "Unknown"
+            }
+          }
+        },
+        {
+          "Name": "Dinner",
+          "StartTime": {
+            "Value": 456.0,
+            "Unit": "h",
+            "ValueOrigin": {
+              "Source": "Unknown"
+            }
+          }
+        }
+      ],
+      "HasResults": true,
+      "IndividualAnalyses": [
+        {
+          "Axes": [
+            {
+              "Unit": "h",
+              "Dimension": "Time",
+              "Type": "X",
+              "GridLines": false,
+              "Visible": true,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "None",
+              "Scaling": "Linear",
+              "NumberMode": "Normal"
+            },
+            {
+              "Unit": "nmol/l",
+              "Dimension": "Concentration (molar)",
+              "Type": "Y",
+              "GridLines": false,
+              "Visible": true,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "Solid",
+              "Scaling": "Log",
+              "NumberMode": "Normal"
+            }
+          ],
+          "Curves": [
+            {
+              "Name": "Digoxin-Peripheral Venous Blood-Plasma-Concentration",
+              "X": "Time",
+              "Y": "Partanen1996_Group1|Organism|PeripheralVenousBlood|Digoxin|Plasma (Peripheral Venous Blood)",
+              "CurveOptions": {
+                "Color": "#FF0000",
+                "LegendIndex": 1
+              }
+            },
+            {
+              "Name": "Hydroxy-Itraconazole-Peripheral Venous Blood-Plasma-Concentration",
+              "X": "Time",
+              "Y": "Partanen1996_Group1|Organism|PeripheralVenousBlood|Hydroxy-Itraconazole|Plasma (Peripheral Venous Blood)",
+              "CurveOptions": {
+                "Visible": false,
+                "Color": "#0000FF",
+                "LegendIndex": 2
+              }
+            },
+            {
+              "Name": "Itraconazole-Peripheral Venous Blood-Plasma-Concentration",
+              "X": "Time",
+              "Y": "Partanen1996_Group1|Organism|PeripheralVenousBlood|Itraconazole|Plasma (Peripheral Venous Blood)",
+              "CurveOptions": {
+                "Color": "#008000",
+                "LegendIndex": 3
+              }
+            },
+            {
+              "Name": "Keto-Itraconazole-Peripheral Venous Blood-Plasma-Concentration",
+              "X": "Time",
+              "Y": "Partanen1996_Group1|Organism|PeripheralVenousBlood|Keto-Itraconazole|Plasma (Peripheral Venous Blood)",
+              "CurveOptions": {
+                "Visible": false,
+                "Color": "#00C0C0",
+                "LegendIndex": 4
+              }
+            },
+            {
+              "Name": "N-desalkyl-Itraconazole-Peripheral Venous Blood-Plasma-Concentration",
+              "X": "Time",
+              "Y": "Partanen1996_Group1|Organism|PeripheralVenousBlood|N-desalkyl-Itraconazole|Plasma (Peripheral Venous Blood)",
+              "CurveOptions": {
+                "Visible": false,
+                "Color": "#FF8000",
+                "LegendIndex": 5
+              }
+            },
+            {
+              "Name": "Partanen 1996 - Digoxin + Itraconazole Group 1 - Digoxin - PO - 0.25 mg - serum - agg. (n=5)-Digoxin-Peripheral Venous Blood-Plasma-ArithmeticMean",
+              "X": "Partanen 1996 - Digoxin + Itraconazole Group 1 - Digoxin - PO - 0.25 mg - serum - agg. (n=5)|Time",
+              "Y": "Partanen 1996 - Digoxin + Itraconazole Group 1 - Digoxin - PO - 0.25 mg - serum - agg. (n=5)|ObservedData|Peripheral Venous Blood|Plasma|Digoxin|ArithmeticMean",
+              "CurveOptions": {
+                "Color": "#FF0000",
+                "LegendIndex": 7,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            },
+            {
+              "Name": "Partanen 1996 - Digoxin + Itraconazole Group 1 - Itraconazole - PO - 200 mg - serum - agg. (n=5)-Itraconazole-Peripheral Venous Blood-Plasma-ArithmeticMean",
+              "X": "Partanen 1996 - Digoxin + Itraconazole Group 1 - Itraconazole - PO - 200 mg - serum - agg. (n=5)|Time",
+              "Y": "Partanen 1996 - Digoxin + Itraconazole Group 1 - Itraconazole - PO - 200 mg - serum - agg. (n=5)|ObservedData|Peripheral Venous Blood|Plasma|Itraconazole|ArithmeticMean",
+              "CurveOptions": {
+                "Color": "#008000",
+                "LegendIndex": 6,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            }
+          ],
+          "Name": "Time Profile Analysis",
+          "FontAndSize": {
+            "Fonts": {
+              "AxisSize": 10,
+              "LegendSize": 8,
+              "TitleSize": 16,
+              "DescriptionSize": 12,
+              "OriginSize": 8,
+              "FontFamilyName": "Microsoft Sans Serif",
+              "WatermarkSize": 32
+            }
+          },
+          "Settings": {
+            "SideMarginsEnabled": true,
+            "LegendPosition": "Bottom",
+            "BackColor": "#FFFFFF",
+            "DiagramBackColor": "#FFFFFF"
+          },
+          "OriginText": "Itraconazole-Digoxin-DDI\nPartanen1996_Group1\n2023-03-24 14:54"
+        }
+      ],
+      "Interactions": [
+        {
+          "Name": "CYP3A4-Isoherranen, 2004",
+          "MoleculeName": "CYP3A4",
+          "CompoundName": "Hydroxy-Itraconazole"
+        },
+        {
+          "Name": "CYP3A4-Isoherranen, 2004",
+          "MoleculeName": "CYP3A4",
+          "CompoundName": "Itraconazole"
+        },
+        {
+          "Name": "ABCB1-Shityakov 2014",
+          "MoleculeName": "P-gp",
+          "CompoundName": "Itraconazole"
+        },
+        {
+          "Name": "CYP3A4-Isoherranen, 2004",
+          "MoleculeName": "CYP3A4",
+          "CompoundName": "Keto-Itraconazole"
+        },
+        {
+          "Name": "CYP3A4-Isoherranen, 2004",
+          "MoleculeName": "CYP3A4",
+          "CompoundName": "N-desalkyl-Itraconazole"
+        }
+      ]
+    },
+    {
+      "Name": "Partanen1996_Group2",
+      "Model": "4Comp",
+      "ObservedData": [
+        "Partanen 1996 - Digoxin + Itraconazole Group 2 - Itraconazole - PO - 200 mg - serum - agg. (n=5)",
+        "Partanen 1996 - Digoxin + Itraconazole Group 2 - Digoxin - PO - 0.25 mg - serum - agg. (n=5)"
+      ],
+      "Solver": {},
+      "OutputSchema": [
+        {
+          "Parameters": [
+            {
+              "Name": "Start time",
+              "Value": 0.0,
+              "Unit": "h",
+              "ValueOrigin": {
+                "Source": "Unknown"
+              }
+            },
+            {
+              "Name": "End time",
+              "Value": 480.0,
+              "Unit": "h",
+              "ValueOrigin": {
+                "Source": "Unknown"
+              }
+            },
+            {
+              "Name": "Resolution",
+              "Value": 20.0,
+              "Unit": "pts/h",
+              "ValueOrigin": {
+                "Source": "Unknown"
+              }
+            }
+          ]
+        }
+      ],
+      "Parameters": [
+        {
+          "Path": "Applications|Partanen1996_Digoxin_Day1-20|Solution|Application_1|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|Partanen1996_Digoxin_Day1-20|Solution|Application_10|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|Partanen1996_Digoxin_Day1-20|Solution|Application_11|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|Partanen1996_Digoxin_Day1-20|Solution|Application_12|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|Partanen1996_Digoxin_Day1-20|Solution|Application_13|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|Partanen1996_Digoxin_Day1-20|Solution|Application_14|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|Partanen1996_Digoxin_Day1-20|Solution|Application_15|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|Partanen1996_Digoxin_Day1-20|Solution|Application_16|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|Partanen1996_Digoxin_Day1-20|Solution|Application_17|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|Partanen1996_Digoxin_Day1-20|Solution|Application_18|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|Partanen1996_Digoxin_Day1-20|Solution|Application_19|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|Partanen1996_Digoxin_Day1-20|Solution|Application_2|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|Partanen1996_Digoxin_Day1-20|Solution|Application_20|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|Partanen1996_Digoxin_Day1-20|Solution|Application_3|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|Partanen1996_Digoxin_Day1-20|Solution|Application_4|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|Partanen1996_Digoxin_Day1-20|Solution|Application_5|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|Partanen1996_Digoxin_Day1-20|Solution|Application_6|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|Partanen1996_Digoxin_Day1-20|Solution|Application_7|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|Partanen1996_Digoxin_Day1-20|Solution|Application_8|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|Partanen1996_Digoxin_Day1-20|Solution|Application_9|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|Partanen1996_Itraconazole_Day11-20|Capsule fed|Application_1|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|Partanen1996_Itraconazole_Day11-20|Capsule fed|Application_10|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|Partanen1996_Itraconazole_Day11-20|Capsule fed|Application_2|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|Partanen1996_Itraconazole_Day11-20|Capsule fed|Application_3|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|Partanen1996_Itraconazole_Day11-20|Capsule fed|Application_4|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|Partanen1996_Itraconazole_Day11-20|Capsule fed|Application_5|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|Partanen1996_Itraconazole_Day11-20|Capsule fed|Application_6|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|Partanen1996_Itraconazole_Day11-20|Capsule fed|Application_7|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|Partanen1996_Itraconazole_Day11-20|Capsule fed|Application_8|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|Partanen1996_Itraconazole_Day11-20|Capsule fed|Application_9|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Undefined Liver|Reference concentration",
+          "Value": 1.0,
+          "Unit": "µmol/l"
+        },
+        {
+          "Path": "Undefined Liver|t1/2 (intestine)",
+          "Value": 1380.0,
+          "Unit": "min"
+        },
+        {
+          "Path": "Undefined Liver|t1/2 (liver)",
+          "Value": 2160.0,
+          "Unit": "min"
+        }
+      ],
+      "OutputSelections": [
+        "Organism|PeripheralVenousBlood|Digoxin|Plasma (Peripheral Venous Blood)",
+        "Organism|PeripheralVenousBlood|Hydroxy-Itraconazole|Plasma (Peripheral Venous Blood)",
+        "Organism|PeripheralVenousBlood|Itraconazole|Plasma (Peripheral Venous Blood)",
+        "Organism|PeripheralVenousBlood|Keto-Itraconazole|Plasma (Peripheral Venous Blood)",
+        "Organism|PeripheralVenousBlood|N-desalkyl-Itraconazole|Plasma (Peripheral Venous Blood)"
+      ],
+      "OutputMappings": [
+        {
+          "Scaling": "Log",
+          "Path": "Partanen1996_Group2|Organism|PeripheralVenousBlood|Hydroxy-Itraconazole|Plasma (Peripheral Venous Blood)",
+          "ObservedData": "Partanen 1996 - Digoxin + Itraconazole Group 2 - Itraconazole - PO - 200 mg - serum - agg. (n=5)"
+        },
+        {
+          "Scaling": "Log",
+          "Path": "Partanen1996_Group2|Organism|PeripheralVenousBlood|Digoxin|Plasma (Peripheral Venous Blood)",
+          "ObservedData": "Partanen 1996 - Digoxin + Itraconazole Group 2 - Digoxin - PO - 0.25 mg - serum - agg. (n=5)"
+        }
+      ],
+      "Individual": "European (P-gp modified, CYP3A4 36 h)",
+      "Compounds": [
+        {
+          "Name": "Digoxin",
+          "CalculationMethods": [
+            "Cellular partition coefficient method - Rodgers and Rowland",
+            "Cellular permeability - PK-Sim Standard"
+          ],
+          "Alternatives": [
+            {
+              "AlternativeName": "fitted",
+              "GroupName": "COMPOUND_PERMEABILITY"
+            },
+            {
+              "AlternativeName": "fitted",
+              "GroupName": "COMPOUND_INTESTINAL_PERMEABILITY"
+            }
+          ],
+          "Processes": [
+            {
+              "MoleculeName": "CYP3A4"
+            },
+            {
+              "MoleculeName": "AADAC"
+            },
+            {
+              "MoleculeName": "UGT1A4"
+            },
+            {
+              "Name": "Total Hepatic Clearance-Fitted",
+              "SystemicProcessType": "Hepatic"
+            },
+            {
+              "Name": "P-gp-Stephens (2001)",
+              "MoleculeName": "P-gp"
+            },
+            {
+              "MoleculeName": "OATP1B1"
+            },
+            {
+              "MoleculeName": "P-gp"
+            },
+            {
+              "MoleculeName": "OATP1B1"
+            },
+            {
+              "Name": "Glomerular Filtration-Steiness (1982)",
+              "SystemicProcessType": "GFR"
+            },
+            {
+              "Name": "ATP1A2-Katz (2010)",
+              "MoleculeName": "ATP1A2"
+            },
+            {
+              "MoleculeName": "GABRG2"
+            }
+          ],
+          "Protocol": {
+            "Name": "Partanen1996_Digoxin_Day1-20",
+            "Formulations": [
+              {
+                "Name": "Solution",
+                "Key": "Formulation"
+              }
+            ]
+          }
+        },
+        {
+          "Name": "Hydroxy-Itraconazole",
+          "CalculationMethods": [
+            "Cellular partition coefficient method - Rodgers and Rowland",
+            "Cellular permeability - PK-Sim Standard"
+          ],
+          "Processes": [
+            {
+              "Name": "CYP3A4-Isoherranen 2004",
+              "MoleculeName": "CYP3A4",
+              "MetaboliteName": "Keto-Itraconazole"
+            },
+            {
+              "MoleculeName": "AADAC"
+            },
+            {
+              "MoleculeName": "UGT1A4"
+            },
+            {
+              "Name": "Glomerular Filtration-GFR",
+              "SystemicProcessType": "GFR"
+            }
+          ]
+        },
+        {
+          "Name": "Itraconazole",
+          "CalculationMethods": [
+            "Cellular partition coefficient method - Rodgers and Rowland",
+            "Cellular permeability - PK-Sim Standard"
+          ],
+          "Alternatives": [
+            {
+              "AlternativeName": "Capsule fed",
+              "GroupName": "COMPOUND_SOLUBILITY"
+            },
+            {
+              "AlternativeName": "Fit",
+              "GroupName": "COMPOUND_INTESTINAL_PERMEABILITY"
+            }
+          ],
+          "Processes": [
+            {
+              "Name": "CYP3A4-Isoherranen 2004",
+              "MoleculeName": "CYP3A4",
+              "MetaboliteName": "Hydroxy-Itraconazole"
+            },
+            {
+              "MoleculeName": "AADAC"
+            },
+            {
+              "MoleculeName": "UGT1A4"
+            },
+            {
+              "Name": "Glomerular Filtration-GFR",
+              "SystemicProcessType": "GFR"
+            }
+          ],
+          "Protocol": {
+            "Name": "Partanen1996_Itraconazole_Day11-20",
+            "Formulations": [
+              {
+                "Name": "Capsule fed",
+                "Key": "Formulation"
+              }
+            ]
+          }
+        },
+        {
+          "Name": "Keto-Itraconazole",
+          "CalculationMethods": [
+            "Cellular partition coefficient method - Rodgers and Rowland",
+            "Cellular permeability - PK-Sim Standard"
+          ],
+          "Processes": [
+            {
+              "Name": "CYP3A4-Isoherranen 2004",
+              "MoleculeName": "CYP3A4",
+              "MetaboliteName": "N-desalkyl-Itraconazole"
+            },
+            {
+              "MoleculeName": "AADAC"
+            },
+            {
+              "MoleculeName": "UGT1A4"
+            },
+            {
+              "Name": "Glomerular Filtration-GFR",
+              "SystemicProcessType": "GFR"
+            }
+          ]
+        },
+        {
+          "Name": "N-desalkyl-Itraconazole",
+          "CalculationMethods": [
+            "Cellular partition coefficient method - Rodgers and Rowland",
+            "Cellular permeability - PK-Sim Standard"
+          ],
+          "Processes": [
+            {
+              "Name": "CYP3A4-Isoherranen 2004",
+              "MoleculeName": "CYP3A4"
+            },
+            {
+              "MoleculeName": "AADAC"
+            },
+            {
+              "MoleculeName": "UGT1A4"
+            },
+            {
+              "Name": "Glomerular Filtration-GFR",
+              "SystemicProcessType": "GFR"
+            }
+          ]
+        }
+      ],
+      "Events": [
+        {
+          "Name": "Dinner",
+          "StartTime": {
+            "Value": 0.0,
+            "Unit": "h"
+          }
+        },
+        {
+          "Name": "Dinner",
+          "StartTime": {
+            "Value": 24.0,
+            "Unit": "h",
+            "ValueOrigin": {
+              "Source": "Unknown"
+            }
+          }
+        },
+        {
+          "Name": "Dinner",
+          "StartTime": {
+            "Value": 48.0,
+            "Unit": "h",
+            "ValueOrigin": {
+              "Source": "Unknown"
+            }
+          }
+        },
+        {
+          "Name": "Dinner",
+          "StartTime": {
+            "Value": 72.0,
+            "Unit": "h",
+            "ValueOrigin": {
+              "Source": "Unknown"
+            }
+          }
+        },
+        {
+          "Name": "Dinner",
+          "StartTime": {
+            "Value": 96.0,
+            "Unit": "h",
+            "ValueOrigin": {
+              "Source": "Unknown"
+            }
+          }
+        },
+        {
+          "Name": "Dinner",
+          "StartTime": {
+            "Value": 120.0,
+            "Unit": "h",
+            "ValueOrigin": {
+              "Source": "Unknown"
+            }
+          }
+        },
+        {
+          "Name": "Dinner",
+          "StartTime": {
+            "Value": 144.0,
+            "Unit": "h",
+            "ValueOrigin": {
+              "Source": "Unknown"
+            }
+          }
+        },
+        {
+          "Name": "Dinner",
+          "StartTime": {
+            "Value": 168.0,
+            "Unit": "h",
+            "ValueOrigin": {
+              "Source": "Unknown"
+            }
+          }
+        },
+        {
+          "Name": "Dinner",
+          "StartTime": {
+            "Value": 192.0,
+            "Unit": "h",
+            "ValueOrigin": {
+              "Source": "Unknown"
+            }
+          }
+        },
+        {
+          "Name": "Dinner",
+          "StartTime": {
+            "Value": 216.0,
+            "Unit": "h",
+            "ValueOrigin": {
+              "Source": "Unknown"
+            }
+          }
+        },
+        {
+          "Name": "Dinner",
+          "StartTime": {
+            "Value": 240.0,
+            "Unit": "h",
+            "ValueOrigin": {
+              "Source": "Unknown"
+            }
+          }
+        },
+        {
+          "Name": "Dinner",
+          "StartTime": {
+            "Value": 264.0,
+            "Unit": "h",
+            "ValueOrigin": {
+              "Source": "Unknown"
+            }
+          }
+        },
+        {
+          "Name": "Dinner",
+          "StartTime": {
+            "Value": 288.0,
+            "Unit": "h",
+            "ValueOrigin": {
+              "Source": "Unknown"
+            }
+          }
+        },
+        {
+          "Name": "Dinner",
+          "StartTime": {
+            "Value": 312.0,
+            "Unit": "h",
+            "ValueOrigin": {
+              "Source": "Unknown"
+            }
+          }
+        },
+        {
+          "Name": "Dinner",
+          "StartTime": {
+            "Value": 336.0,
+            "Unit": "h",
+            "ValueOrigin": {
+              "Source": "Unknown"
+            }
+          }
+        },
+        {
+          "Name": "Dinner",
+          "StartTime": {
+            "Value": 360.0,
+            "Unit": "h",
+            "ValueOrigin": {
+              "Source": "Unknown"
+            }
+          }
+        },
+        {
+          "Name": "Dinner",
+          "StartTime": {
+            "Value": 384.0,
+            "Unit": "h",
+            "ValueOrigin": {
+              "Source": "Unknown"
+            }
+          }
+        },
+        {
+          "Name": "Dinner",
+          "StartTime": {
+            "Value": 408.0,
+            "Unit": "h",
+            "ValueOrigin": {
+              "Source": "Unknown"
+            }
+          }
+        },
+        {
+          "Name": "Dinner",
+          "StartTime": {
+            "Value": 432.0,
+            "Unit": "h",
+            "ValueOrigin": {
+              "Source": "Unknown"
+            }
+          }
+        },
+        {
+          "Name": "Dinner",
+          "StartTime": {
+            "Value": 456.0,
+            "Unit": "h",
+            "ValueOrigin": {
+              "Source": "Unknown"
+            }
+          }
+        }
+      ],
+      "HasResults": true,
+      "IndividualAnalyses": [
+        {
+          "Axes": [
+            {
+              "Unit": "h",
+              "Dimension": "Time",
+              "Type": "X",
+              "GridLines": false,
+              "Visible": true,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "None",
+              "Scaling": "Linear",
+              "NumberMode": "Normal"
+            },
+            {
+              "Unit": "nmol/l",
+              "Dimension": "Concentration (molar)",
+              "Type": "Y",
+              "GridLines": false,
+              "Visible": true,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "Solid",
+              "Scaling": "Log",
+              "NumberMode": "Normal"
+            }
+          ],
+          "Curves": [
+            {
+              "Name": "Digoxin-Peripheral Venous Blood-Plasma-Concentration",
+              "X": "Time",
+              "Y": "Partanen1996_Group2|Organism|PeripheralVenousBlood|Digoxin|Plasma (Peripheral Venous Blood)",
+              "CurveOptions": {
+                "Color": "#FF0000",
+                "LegendIndex": 1
+              }
+            },
+            {
+              "Name": "Hydroxy-Itraconazole-Peripheral Venous Blood-Plasma-Concentration",
+              "X": "Time",
+              "Y": "Partanen1996_Group2|Organism|PeripheralVenousBlood|Hydroxy-Itraconazole|Plasma (Peripheral Venous Blood)",
+              "CurveOptions": {
+                "Visible": false,
+                "Color": "#0000FF",
+                "LegendIndex": 2
+              }
+            },
+            {
+              "Name": "Itraconazole-Peripheral Venous Blood-Plasma-Concentration",
+              "X": "Time",
+              "Y": "Partanen1996_Group2|Organism|PeripheralVenousBlood|Itraconazole|Plasma (Peripheral Venous Blood)",
+              "CurveOptions": {
+                "Color": "#008000",
+                "LegendIndex": 3
+              }
+            },
+            {
+              "Name": "Keto-Itraconazole-Peripheral Venous Blood-Plasma-Concentration",
+              "X": "Time",
+              "Y": "Partanen1996_Group2|Organism|PeripheralVenousBlood|Keto-Itraconazole|Plasma (Peripheral Venous Blood)",
+              "CurveOptions": {
+                "Visible": false,
+                "Color": "#00C0C0",
+                "LegendIndex": 4
+              }
+            },
+            {
+              "Name": "N-desalkyl-Itraconazole-Peripheral Venous Blood-Plasma-Concentration",
+              "X": "Time",
+              "Y": "Partanen1996_Group2|Organism|PeripheralVenousBlood|N-desalkyl-Itraconazole|Plasma (Peripheral Venous Blood)",
+              "CurveOptions": {
+                "Visible": false,
+                "Color": "#FF8000",
+                "LegendIndex": 5
+              }
+            },
+            {
+              "Name": "Partanen 1996 - Digoxin + Itraconazole Group 2 - Digoxin - PO - 0.25 mg - serum - agg. (n=5)-Digoxin-Peripheral Venous Blood-Plasma-ArithmeticMean",
+              "X": "Partanen 1996 - Digoxin + Itraconazole Group 2 - Digoxin - PO - 0.25 mg - serum - agg. (n=5)|Time",
+              "Y": "Partanen 1996 - Digoxin + Itraconazole Group 2 - Digoxin - PO - 0.25 mg - serum - agg. (n=5)|ObservedData|Peripheral Venous Blood|Plasma|Digoxin|ArithmeticMean",
+              "CurveOptions": {
+                "Color": "#FF0000",
+                "LegendIndex": 7,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            },
+            {
+              "Name": "Partanen 1996 - Digoxin + Itraconazole Group 2 - Itraconazole - PO - 200 mg - serum - agg. (n=5)-Itraconazole-Peripheral Venous Blood-Plasma-ArithmeticMean",
+              "X": "Partanen 1996 - Digoxin + Itraconazole Group 2 - Itraconazole - PO - 200 mg - serum - agg. (n=5)|Time",
+              "Y": "Partanen 1996 - Digoxin + Itraconazole Group 2 - Itraconazole - PO - 200 mg - serum - agg. (n=5)|ObservedData|Peripheral Venous Blood|Plasma|Itraconazole|ArithmeticMean",
+              "CurveOptions": {
+                "Color": "#008000",
+                "LegendIndex": 6,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            }
+          ],
+          "Name": "Time Profile Analysis",
+          "FontAndSize": {
+            "Fonts": {
+              "AxisSize": 10,
+              "LegendSize": 8,
+              "TitleSize": 16,
+              "DescriptionSize": 12,
+              "OriginSize": 8,
+              "FontFamilyName": "Microsoft Sans Serif",
+              "WatermarkSize": 32
+            }
+          },
+          "Settings": {
+            "SideMarginsEnabled": true,
+            "LegendPosition": "Bottom",
+            "BackColor": "#FFFFFF",
+            "DiagramBackColor": "#FFFFFF"
+          },
+          "OriginText": "Itraconazole-Digoxin-DDI\nPartanen1996_Group2\n2023-03-24 15:14"
+        }
+      ],
+      "Interactions": [
+        {
+          "Name": "CYP3A4-Isoherranen, 2004",
+          "MoleculeName": "CYP3A4",
+          "CompoundName": "Hydroxy-Itraconazole"
+        },
+        {
+          "Name": "CYP3A4-Isoherranen, 2004",
+          "MoleculeName": "CYP3A4",
+          "CompoundName": "Itraconazole"
+        },
+        {
+          "Name": "ABCB1-Shityakov 2014",
+          "MoleculeName": "P-gp",
+          "CompoundName": "Itraconazole"
+        },
+        {
+          "Name": "CYP3A4-Isoherranen, 2004",
+          "MoleculeName": "CYP3A4",
+          "CompoundName": "Keto-Itraconazole"
+        },
+        {
+          "Name": "CYP3A4-Isoherranen, 2004",
+          "MoleculeName": "CYP3A4",
+          "CompoundName": "N-desalkyl-Itraconazole"
+        }
+      ]
+    }
+  ],
+  "ObservedData": [
+    {
+      "Name": "Jalava 1997 - po Control (Perpetrator Placebo) - Digoxin - PO - 0.5 mg - Urine - agg. (n=10)",
+      "ExtendedProperties": [
+        {
+          "Name": "DB Version",
+          "Value": "OSP DATABASE"
+        },
+        {
+          "Name": "ID",
+          "Value": 273.0
+        },
+        {
+          "Name": "Study Id",
+          "Value": "Jalava 1997"
+        },
+        {
+          "Name": "Reference",
+          "Value": "https://www.ncbi.nlm.nih.gov/pubmed/9421099"
+        },
+        {
+          "Name": "Source",
+          "Value": "Tab. 2"
+        },
+        {
+          "Name": "Grouping",
+          "Value": "po Control (Perpetrator Placebo)"
+        },
+        {
+          "Name": "Data type",
+          "Value": "aggregated"
+        },
+        {
+          "Name": "N",
+          "Value": 10.0
+        },
+        {
+          "Name": "Molecule",
+          "Value": "Digoxin"
+        },
+        {
+          "Name": "Species",
+          "Value": "human"
+        },
+        {
+          "Name": "Organ",
+          "Value": "Kidney"
+        },
+        {
+          "Name": "Compartment",
+          "Value": "Urine"
+        },
+        {
+          "Name": "Route",
+          "Value": "PO"
+        },
+        {
+          "Name": "Dose",
+          "Value": "0.5 mg"
+        },
+        {
+          "Name": "Times of Administration [h]",
+          "Value": 0.0
+        },
+        {
+          "Name": "Formulation",
+          "Value": "Digoxin 0.25-mg tablets, Orion, Espoo, Finland"
+        },
+        {
+          "Name": "Food state",
+          "Value": "."
+        },
+        {
+          "Name": "Comment",
+          "Value": "Arith. SEM converted to arith. SD"
+        }
+      ],
+      "Columns": [
+        {
+          "Name": "Avg",
+          "RelatedColumns": [
+            {
+              "Name": "Var",
+              "QuantityInfo": {
+                "Path": "Jalava 1997 - po Control (Perpetrator Placebo) - Digoxin - PO - 0.5 mg - Urine - agg. (n=10)|ObservedData|Kidney|Urine|Digoxin|ArithmeticStdDev"
+              },
+              "DataInfo": {
+                "Origin": "ObservationAuxiliary",
+                "AuxiliaryType": "ArithmeticStdDev",
+                "MolWeight": 780.93
+              },
+              "Values": [
+                3.794733E-08
+              ],
+              "Dimension": "Mass",
+              "Unit": "kg"
+            }
+          ],
+          "QuantityInfo": {
+            "Path": "Jalava 1997 - po Control (Perpetrator Placebo) - Digoxin - PO - 0.5 mg - Urine - agg. (n=10)|ObservedData|Kidney|Urine|Digoxin|ArithmeticMean"
+          },
+          "DataInfo": {
+            "Origin": "Observation",
+            "AuxiliaryType": "Undefined",
+            "MolWeight": 780.93
+          },
+          "Values": [
+            1.74E-07
+          ],
+          "Dimension": "Mass",
+          "Unit": "kg"
+        }
+      ],
+      "BaseGrid": {
+        "Name": "Time",
+        "QuantityInfo": {
+          "Path": "Jalava 1997 - po Control (Perpetrator Placebo) - Digoxin - PO - 0.5 mg - Urine - agg. (n=10)|Time",
+          "Type": "Time"
+        },
+        "DataInfo": {
+          "Origin": "BaseGrid",
+          "AuxiliaryType": "Undefined"
+        },
+        "Values": [
+          72.0
+        ],
+        "Dimension": "Time",
+        "Unit": "h"
+      }
+    },
+    {
+      "Name": "Jalava 1997 - po with Perpetrator (Itraconazole) - Digoxin - PO - 0.5 mg - Serum - agg. (n=10)",
+      "ExtendedProperties": [
+        {
+          "Name": "DB Version",
+          "Value": "OSP DATABASE"
+        },
+        {
+          "Name": "ID",
+          "Value": 271.0
+        },
+        {
+          "Name": "Study Id",
+          "Value": "Jalava 1997"
+        },
+        {
+          "Name": "Reference",
+          "Value": "https://www.ncbi.nlm.nih.gov/pubmed/9421099"
+        },
+        {
+          "Name": "Source",
+          "Value": "Fig. 1A"
+        },
+        {
+          "Name": "Grouping",
+          "Value": "po with Perpetrator (Itraconazole)"
+        },
+        {
+          "Name": "Data type",
+          "Value": "aggregated"
+        },
+        {
+          "Name": "N",
+          "Value": 10.0
+        },
+        {
+          "Name": "Molecule",
+          "Value": "Digoxin"
+        },
+        {
+          "Name": "Species",
+          "Value": "human"
+        },
+        {
+          "Name": "Organ",
+          "Value": "Peripheral Venous Blood"
+        },
+        {
+          "Name": "Compartment",
+          "Value": "Plasma"
+        },
+        {
+          "Name": "Route",
+          "Value": "PO"
+        },
+        {
+          "Name": "Dose",
+          "Value": "0.5 mg"
+        },
+        {
+          "Name": "Times of Administration [h]",
+          "Value": 49.0
+        },
+        {
+          "Name": "Formulation",
+          "Value": "Digoxin 0.25-mg tablets, Orion, Espoo, Finland"
+        },
+        {
+          "Name": "Food state",
+          "Value": "."
+        },
+        {
+          "Name": "Comment",
+          "Value": "Arith. SEM converted to arith. SD"
+        }
+      ],
+      "Columns": [
+        {
+          "Name": "Avg",
+          "RelatedColumns": [
+            {
+              "Name": "Var",
+              "QuantityInfo": {
+                "Path": "Jalava 1997 - po with Perpetrator (Itraconazole) - Digoxin - PO - 0.5 mg - Serum - agg. (n=10)|ObservedData|Peripheral Venous Blood|Plasma|Digoxin|ArithmeticStdDev"
+              },
+              "DataInfo": {
+                "Origin": "ObservationAuxiliary",
+                "AuxiliaryType": "ArithmeticStdDev",
+                "MolWeight": 780.93
+              },
+              "Values": [
+                0.002198325,
+                0.001327884,
+                0.00103432231,
+                0.000236125052,
+                "NaN",
+                0.0001260961,
+                0.000120578537,
+                0.000114577
+              ],
+              "Dimension": "Concentration (molar)",
+              "Unit": "µmol/l"
+            }
+          ],
+          "QuantityInfo": {
+            "Path": "Jalava 1997 - po with Perpetrator (Itraconazole) - Digoxin - PO - 0.5 mg - Serum - agg. (n=10)|ObservedData|Peripheral Venous Blood|Plasma|Digoxin|ArithmeticMean"
+          },
+          "DataInfo": {
+            "Origin": "Observation",
+            "AuxiliaryType": "Undefined",
+            "MolWeight": 780.93,
+            "LLOQ": 0.0002
+          },
+          "Values": [
+            0.003246168,
+            0.003521049,
+            0.002215316,
+            0.0009572558,
+            0.000678212,
+            0.0005111961,
+            0.000339617778,
+            0.000157920789
+          ],
+          "Dimension": "Concentration (molar)",
+          "Unit": "µmol/l"
+        }
+      ],
+      "BaseGrid": {
+        "Name": "Time",
+        "QuantityInfo": {
+          "Path": "Jalava 1997 - po with Perpetrator (Itraconazole) - Digoxin - PO - 0.5 mg - Serum - agg. (n=10)|Time",
+          "Type": "Time"
+        },
+        "DataInfo": {
+          "Origin": "BaseGrid",
+          "AuxiliaryType": "Undefined"
+        },
+        "Values": [
+          50.0,
+          51.0,
+          53.0,
+          57.0,
+          61.0,
+          73.0,
+          97.0,
+          121.0
+        ],
+        "Dimension": "Time",
+        "Unit": "h"
+      }
+    },
+    {
+      "Name": "Jalava 1997 - po with Perpetrator (Itraconazole) - Itraconazole - PO - 200 mg - Plasma - agg. (n=10)",
+      "ExtendedProperties": [
+        {
+          "Name": "DB Version",
+          "Value": "OSP DATABASE"
+        },
+        {
+          "Name": "ID",
+          "Value": 272.0
+        },
+        {
+          "Name": "Study Id",
+          "Value": "Jalava 1997"
+        },
+        {
+          "Name": "Reference",
+          "Value": "https://www.ncbi.nlm.nih.gov/pubmed/9421099"
+        },
+        {
+          "Name": "Source",
+          "Value": "Fig. 1B"
+        },
+        {
+          "Name": "Grouping",
+          "Value": "po with Perpetrator (Itraconazole)"
+        },
+        {
+          "Name": "Data type",
+          "Value": "aggregated"
+        },
+        {
+          "Name": "N",
+          "Value": 10.0
+        },
+        {
+          "Name": "Molecule",
+          "Value": "Itraconazole"
+        },
+        {
+          "Name": "Species",
+          "Value": "human"
+        },
+        {
+          "Name": "Organ",
+          "Value": "Peripheral Venous Blood"
+        },
+        {
+          "Name": "Compartment",
+          "Value": "Plasma"
+        },
+        {
+          "Name": "Route",
+          "Value": "PO"
+        },
+        {
+          "Name": "Dose",
+          "Value": "200 mg"
+        },
+        {
+          "Name": "Times of Administration [h]",
+          "Value": "0-24-48-72-96"
+        },
+        {
+          "Name": "Formulation",
+          "Value": "Sporanox 100-mg caps, Janssen Pharmaceuticals, Beerse, Belgium"
+        },
+        {
+          "Name": "Food state",
+          "Value": "."
+        },
+        {
+          "Name": "Comment",
+          "Value": "Arith. SEM converted to arith. SD"
+        }
+      ],
+      "Columns": [
+        {
+          "Name": "Avg",
+          "RelatedColumns": [
+            {
+              "Name": "Var",
+              "QuantityInfo": {
+                "Path": "Jalava 1997 - po with Perpetrator (Itraconazole) - Itraconazole - PO - 200 mg - Plasma - agg. (n=10)|ObservedData|Peripheral Venous Blood|Plasma|Itraconazole|ArithmeticStdDev"
+              },
+              "DataInfo": {
+                "Origin": "ObservationAuxiliary",
+                "AuxiliaryType": "ArithmeticStdDev",
+                "MolWeight": 705.633
+              },
+              "Values": [
+                0.04070822,
+                0.0675621852,
+                0.1757834,
+                0.213636339,
+                0.08215857,
+                0.0567314476,
+                0.06264899,
+                0.0617523268
+              ],
+              "Dimension": "Concentration (molar)",
+              "Unit": "µmol/l"
+            }
+          ],
+          "QuantityInfo": {
+            "Path": "Jalava 1997 - po with Perpetrator (Itraconazole) - Itraconazole - PO - 200 mg - Plasma - agg. (n=10)|ObservedData|Peripheral Venous Blood|Plasma|Itraconazole|ArithmeticMean"
+          },
+          "DataInfo": {
+            "Origin": "Observation",
+            "AuxiliaryType": "Undefined",
+            "MolWeight": 705.633,
+            "LLOQ": 0.00705633
+          },
+          "Values": [
+            0.0799845457,
+            0.1382446,
+            0.3596843,
+            0.498363882,
+            0.2483665,
+            0.171500191,
+            0.1230947,
+            0.1510271
+          ],
+          "Dimension": "Concentration (molar)",
+          "Unit": "µmol/l"
+        }
+      ],
+      "BaseGrid": {
+        "Name": "Time",
+        "QuantityInfo": {
+          "Path": "Jalava 1997 - po with Perpetrator (Itraconazole) - Itraconazole - PO - 200 mg - Plasma - agg. (n=10)|Time",
+          "Type": "Time"
+        },
+        "DataInfo": {
+          "Origin": "BaseGrid",
+          "AuxiliaryType": "Undefined"
+        },
+        "Values": [
+          48.0,
+          49.0,
+          50.0,
+          52.0,
+          56.0,
+          60.0,
+          72.0,
+          96.0
+        ],
+        "Dimension": "Time",
+        "Unit": "h"
+      }
+    },
+    {
+      "Name": "Jalava 1997 - po Control (Perpetrator Placebo) - Digoxin - PO - 0.5 mg - Serum - agg. (n=10)",
+      "ExtendedProperties": [
+        {
+          "Name": "DB Version",
+          "Value": "OSP DATABASE"
+        },
+        {
+          "Name": "ID",
+          "Value": 270.0
+        },
+        {
+          "Name": "Study Id",
+          "Value": "Jalava 1997"
+        },
+        {
+          "Name": "Reference",
+          "Value": "https://www.ncbi.nlm.nih.gov/pubmed/9421099"
+        },
+        {
+          "Name": "Source",
+          "Value": "Fig. 1A"
+        },
+        {
+          "Name": "Grouping",
+          "Value": "po Control (Perpetrator Placebo)"
+        },
+        {
+          "Name": "Data type",
+          "Value": "aggregated"
+        },
+        {
+          "Name": "N",
+          "Value": 10.0
+        },
+        {
+          "Name": "Molecule",
+          "Value": "Digoxin"
+        },
+        {
+          "Name": "Species",
+          "Value": "human"
+        },
+        {
+          "Name": "Organ",
+          "Value": "Peripheral Venous Blood"
+        },
+        {
+          "Name": "Compartment",
+          "Value": "Plasma"
+        },
+        {
+          "Name": "Route",
+          "Value": "PO"
+        },
+        {
+          "Name": "Dose",
+          "Value": "0.5 mg"
+        },
+        {
+          "Name": "Times of Administration [h]",
+          "Value": 0.0
+        },
+        {
+          "Name": "Formulation",
+          "Value": "Digoxin 0.25-mg tablets, Orion, Espoo, Finland"
+        },
+        {
+          "Name": "Food state",
+          "Value": "."
+        },
+        {
+          "Name": "Comment",
+          "Value": "Arith. SEM converted to arith. SD"
+        }
+      ],
+      "Columns": [
+        {
+          "Name": "Avg",
+          "RelatedColumns": [
+            {
+              "Name": "Var",
+              "QuantityInfo": {
+                "Path": "Jalava 1997 - po Control (Perpetrator Placebo) - Digoxin - PO - 0.5 mg - Serum - agg. (n=10)|ObservedData|Peripheral Venous Blood|Plasma|Digoxin|ArithmeticStdDev"
+              },
+              "DataInfo": {
+                "Origin": "ObservationAuxiliary",
+                "AuxiliaryType": "ArithmeticStdDev",
+                "MolWeight": 780.93
+              },
+              "Values": [
+                0.00194535253,
+                0.0006079242,
+                0.000190788065,
+                0.00017120938,
+                0.000114212329,
+                0.000112855581,
+                7.541516E-05
+              ],
+              "Dimension": "Concentration (molar)",
+              "Unit": "µmol/l"
+            }
+          ],
+          "QuantityInfo": {
+            "Path": "Jalava 1997 - po Control (Perpetrator Placebo) - Digoxin - PO - 0.5 mg - Serum - agg. (n=10)|ObservedData|Peripheral Venous Blood|Plasma|Digoxin|ArithmeticMean"
+          },
+          "DataInfo": {
+            "Origin": "Observation",
+            "AuxiliaryType": "Undefined",
+            "MolWeight": 780.93,
+            "LLOQ": 0.0002
+          },
+          "Values": [
+            0.003049211,
+            0.0020171362,
+            0.0009942314,
+            0.0006453096,
+            0.0004990758,
+            0.000456727721,
+            0.0001533756
+          ],
+          "Dimension": "Concentration (molar)",
+          "Unit": "µmol/l"
+        }
+      ],
+      "BaseGrid": {
+        "Name": "Time",
+        "QuantityInfo": {
+          "Path": "Jalava 1997 - po Control (Perpetrator Placebo) - Digoxin - PO - 0.5 mg - Serum - agg. (n=10)|Time",
+          "Type": "Time"
+        },
+        "DataInfo": {
+          "Origin": "BaseGrid",
+          "AuxiliaryType": "Undefined"
+        },
+        "Values": [
+          1.0,
+          2.0,
+          4.0,
+          8.0,
+          12.0,
+          24.0,
+          48.0
+        ],
+        "Dimension": "Time",
+        "Unit": "h"
+      }
+    },
+    {
+      "Name": "Jalava 1997 - po with Perpetrator (Itraconazole) - Digoxin - PO - 0.5 mg - Urine - agg. (n=10)",
+      "ExtendedProperties": [
+        {
+          "Name": "DB Version",
+          "Value": "OSP DATABASE"
+        },
+        {
+          "Name": "ID",
+          "Value": 274.0
+        },
+        {
+          "Name": "Study Id",
+          "Value": "Jalava 1997"
+        },
+        {
+          "Name": "Reference",
+          "Value": "https://www.ncbi.nlm.nih.gov/pubmed/9421099"
+        },
+        {
+          "Name": "Source",
+          "Value": "Tab. 2"
+        },
+        {
+          "Name": "Grouping",
+          "Value": "po with Perpetrator (Itraconazole)"
+        },
+        {
+          "Name": "Data type",
+          "Value": "aggregated"
+        },
+        {
+          "Name": "N",
+          "Value": 10.0
+        },
+        {
+          "Name": "Molecule",
+          "Value": "Digoxin"
+        },
+        {
+          "Name": "Species",
+          "Value": "human"
+        },
+        {
+          "Name": "Organ",
+          "Value": "Kidney"
+        },
+        {
+          "Name": "Compartment",
+          "Value": "Urine"
+        },
+        {
+          "Name": "Route",
+          "Value": "PO"
+        },
+        {
+          "Name": "Dose",
+          "Value": "0.5 mg"
+        },
+        {
+          "Name": "Times of Administration [h]",
+          "Value": 49.0
+        },
+        {
+          "Name": "Formulation",
+          "Value": "Digoxin 0.25-mg tablets, Orion, Espoo, Finland"
+        },
+        {
+          "Name": "Food state",
+          "Value": "."
+        },
+        {
+          "Name": "Comment",
+          "Value": "Arith. SEM converted to arith. SD"
+        }
+      ],
+      "Columns": [
+        {
+          "Name": "Avg",
+          "RelatedColumns": [
+            {
+              "Name": "Var",
+              "QuantityInfo": {
+                "Path": "Jalava 1997 - po with Perpetrator (Itraconazole) - Digoxin - PO - 0.5 mg - Urine - agg. (n=10)|ObservedData|Kidney|Urine|Digoxin|ArithmeticStdDev"
+              },
+              "DataInfo": {
+                "Origin": "ObservationAuxiliary",
+                "AuxiliaryType": "ArithmeticStdDev",
+                "MolWeight": 780.93
+              },
+              "Values": [
+                1.89736653E-08
+              ],
+              "Dimension": "Mass",
+              "Unit": "kg"
+            }
+          ],
+          "QuantityInfo": {
+            "Path": "Jalava 1997 - po with Perpetrator (Itraconazole) - Digoxin - PO - 0.5 mg - Urine - agg. (n=10)|ObservedData|Kidney|Urine|Digoxin|ArithmeticMean"
+          },
+          "DataInfo": {
+            "Origin": "Observation",
+            "AuxiliaryType": "Undefined",
+            "MolWeight": 780.93
+          },
+          "Values": [
+            2.13E-07
+          ],
+          "Dimension": "Mass",
+          "Unit": "kg"
+        }
+      ],
+      "BaseGrid": {
+        "Name": "Time",
+        "QuantityInfo": {
+          "Path": "Jalava 1997 - po with Perpetrator (Itraconazole) - Digoxin - PO - 0.5 mg - Urine - agg. (n=10)|Time",
+          "Type": "Time"
+        },
+        "DataInfo": {
+          "Origin": "BaseGrid",
+          "AuxiliaryType": "Undefined"
+        },
+        "Values": [
+          121.0
+        ],
+        "Dimension": "Time",
+        "Unit": "h"
+      }
+    },
+    {
+      "Name": "Partanen 1996 - Digoxin + Itraconazole Group 1 - Digoxin - PO - 0.25 mg - serum - agg. (n=5)",
+      "ExtendedProperties": [
+        {
+          "Name": "DB Version",
+          "Value": "OSP DATABASE"
+        },
+        {
+          "Name": "ID",
+          "Value": 16329.0
+        },
+        {
+          "Name": "Study Id",
+          "Value": "Partanen 1996"
+        },
+        {
+          "Name": "Reference",
+          "Value": "https://pubmed.ncbi.nlm.nih.gov/8936563/"
+        },
+        {
+          "Name": "Source",
+          "Value": "Fig. 1"
+        },
+        {
+          "Name": "Grouping",
+          "Value": "Digoxin + Itraconazole Group 1"
+        },
+        {
+          "Name": "Data type",
+          "Value": "aggregated"
+        },
+        {
+          "Name": "N",
+          "Value": 5.0
+        },
+        {
+          "Name": "Molecule",
+          "Value": "Digoxin"
+        },
+        {
+          "Name": "Species",
+          "Value": "Human"
+        },
+        {
+          "Name": "Organ",
+          "Value": "Peripheral Venous Blood"
+        },
+        {
+          "Name": "Compartment",
+          "Value": "Plasma"
+        },
+        {
+          "Name": "Route",
+          "Value": "PO"
+        },
+        {
+          "Name": "Dose",
+          "Value": "0.25 mg"
+        },
+        {
+          "Name": "Times of Administration [h]",
+          "Value": "S0-T24-R20"
+        },
+        {
+          "Name": "Formulation",
+          "Value": "tablet"
+        },
+        {
+          "Name": "Food state",
+          "Value": "."
+        },
+        {
+          "Name": "Comment",
+          "Value": "."
+        }
+      ],
+      "Columns": [
+        {
+          "Name": "Avg",
+          "RelatedColumns": [
+            {
+              "Name": "Var",
+              "QuantityInfo": {
+                "Path": "Partanen 1996 - Digoxin + Itraconazole Group 1 - Digoxin - PO - 0.25 mg - serum - agg. (n=5)|ObservedData|Peripheral Venous Blood|Plasma|Digoxin|ArithmeticStdDev"
+              },
+              "DataInfo": {
+                "Origin": "ObservationAuxiliary",
+                "AuxiliaryType": "ArithmeticStdDev",
+                "MolWeight": 780.93
+              },
+              "Values": [
+                1.182965E-05,
+                3.94314475E-06,
+                3.480911E-08,
+                7.094318E-05,
+                0.000145933489,
+                0.000130126,
+                0.0001458989,
+                3.516674E-08,
+                0.0001182615,
+                0.0001300913,
+                3.16150181E-05,
+                7.4956E-05,
+                9.069437E-05
+              ],
+              "Dimension": "Concentration (molar)",
+              "Unit": "µmol/l"
+            }
+          ],
+          "QuantityInfo": {
+            "Path": "Partanen 1996 - Digoxin + Itraconazole Group 1 - Digoxin - PO - 0.25 mg - serum - agg. (n=5)|ObservedData|Peripheral Venous Blood|Plasma|Digoxin|ArithmeticMean"
+          },
+          "DataInfo": {
+            "Origin": "Observation",
+            "AuxiliaryType": "Undefined",
+            "MolWeight": 780.93,
+            "LLOQ": 0.0002
+          },
+          "Values": [
+            0.000100000005,
+            0.0004637676,
+            0.0008643742,
+            0.000936161552,
+            0.001256407,
+            0.00153715,
+            0.00165625592,
+            0.001366799,
+            0.001262709,
+            0.001255597,
+            0.00101587,
+            0.001032418,
+            0.001013477
+          ],
+          "Dimension": "Concentration (molar)",
+          "Unit": "µmol/l"
+        }
+      ],
+      "BaseGrid": {
+        "Name": "Time",
+        "QuantityInfo": {
+          "Path": "Partanen 1996 - Digoxin + Itraconazole Group 1 - Digoxin - PO - 0.25 mg - serum - agg. (n=5)|Time",
+          "Type": "Time"
+        },
+        "DataInfo": {
+          "Origin": "BaseGrid",
+          "AuxiliaryType": "Undefined"
+        },
+        "Values": [
+          0.0,
+          12.0,
+          36.0,
+          84.0,
+          132.0,
+          180.0,
+          228.0,
+          252.0,
+          276.0,
+          324.0,
+          372.0,
+          420.0,
+          468.0
+        ],
+        "Dimension": "Time",
+        "Unit": "h"
+      }
+    },
+    {
+      "Name": "Partanen 1996 - Digoxin + Itraconazole Group 2 - Digoxin - PO - 0.25 mg - serum - agg. (n=5)",
+      "ExtendedProperties": [
+        {
+          "Name": "DB Version",
+          "Value": "OSP DATABASE"
+        },
+        {
+          "Name": "ID",
+          "Value": 16330.0
+        },
+        {
+          "Name": "Study Id",
+          "Value": "Partanen 1996"
+        },
+        {
+          "Name": "Reference",
+          "Value": "https://pubmed.ncbi.nlm.nih.gov/8936563/"
+        },
+        {
+          "Name": "Source",
+          "Value": "Fig. 1"
+        },
+        {
+          "Name": "Grouping",
+          "Value": "Digoxin + Itraconazole Group 2"
+        },
+        {
+          "Name": "Data type",
+          "Value": "aggregated"
+        },
+        {
+          "Name": "N",
+          "Value": 5.0
+        },
+        {
+          "Name": "Molecule",
+          "Value": "Digoxin"
+        },
+        {
+          "Name": "Species",
+          "Value": "Human"
+        },
+        {
+          "Name": "Organ",
+          "Value": "Peripheral Venous Blood"
+        },
+        {
+          "Name": "Compartment",
+          "Value": "Plasma"
+        },
+        {
+          "Name": "Route",
+          "Value": "PO"
+        },
+        {
+          "Name": "Dose",
+          "Value": "0.25 mg"
+        },
+        {
+          "Name": "Times of Administration [h]",
+          "Value": "S0-T24-R20"
+        },
+        {
+          "Name": "Formulation",
+          "Value": "tablet"
+        },
+        {
+          "Name": "Food state",
+          "Value": "."
+        },
+        {
+          "Name": "Comment",
+          "Value": "."
+        }
+      ],
+      "Columns": [
+        {
+          "Name": "Avg",
+          "RelatedColumns": [
+            {
+              "Name": "Var",
+              "QuantityInfo": {
+                "Path": "Partanen 1996 - Digoxin + Itraconazole Group 2 - Digoxin - PO - 0.25 mg - serum - agg. (n=5)|ObservedData|Peripheral Venous Blood|Plasma|Digoxin|ArithmeticStdDev"
+              },
+              "DataInfo": {
+                "Origin": "ObservationAuxiliary",
+                "AuxiliaryType": "ArithmeticStdDev",
+                "MolWeight": 780.93
+              },
+              "Values": [
+                3.908399E-06,
+                2.980232E-11,
+                7.921219E-06,
+                0.000102523605,
+                8.287722E-05,
+                7.88992E-05,
+                3.90839568E-06,
+                9.463727E-05,
+                0.000118261705,
+                0.0002128644,
+                0.000149807092,
+                0.0001774449,
+                0.0001025233
+              ],
+              "Dimension": "Concentration (molar)",
+              "Unit": "µmol/l"
+            }
+          ],
+          "QuantityInfo": {
+            "Path": "Partanen 1996 - Digoxin + Itraconazole Group 2 - Digoxin - PO - 0.25 mg - serum - agg. (n=5)|ObservedData|Peripheral Venous Blood|Plasma|Digoxin|ArithmeticMean"
+          },
+          "DataInfo": {
+            "Origin": "Observation",
+            "AuxiliaryType": "Undefined",
+            "MolWeight": 780.93,
+            "LLOQ": 0.0002
+          },
+          "Values": [
+            0.000100000005,
+            0.000428243919,
+            0.0005331787,
+            0.0007863194,
+            0.00091728993,
+            0.0009377459,
+            0.000930669,
+            0.0009764208,
+            0.001227185,
+            0.00142519,
+            0.00154824,
+            0.00174219708,
+            0.001829723
+          ],
+          "Dimension": "Concentration (molar)",
+          "Unit": "µmol/l"
+        }
+      ],
+      "BaseGrid": {
+        "Name": "Time",
+        "QuantityInfo": {
+          "Path": "Partanen 1996 - Digoxin + Itraconazole Group 2 - Digoxin - PO - 0.25 mg - serum - agg. (n=5)|Time",
+          "Type": "Time"
+        },
+        "DataInfo": {
+          "Origin": "BaseGrid",
+          "AuxiliaryType": "Undefined"
+        },
+        "Values": [
+          0.0,
+          12.0,
+          36.0,
+          84.0,
+          132.0,
+          180.0,
+          228.0,
+          252.0,
+          276.0,
+          324.0,
+          372.0,
+          420.0,
+          468.0
+        ],
+        "Dimension": "Time",
+        "Unit": "h"
+      }
+    },
+    {
+      "Name": "Partanen 1996 - Digoxin + Itraconazole Group 1 - Itraconazole - PO - 200 mg - serum - agg. (n=5)",
+      "ExtendedProperties": [
+        {
+          "Name": "DB Version",
+          "Value": "OSP DATABASE"
+        },
+        {
+          "Name": "ID",
+          "Value": 16331.0
+        },
+        {
+          "Name": "Study Id",
+          "Value": "Partanen 1996"
+        },
+        {
+          "Name": "Reference",
+          "Value": "https://pubmed.ncbi.nlm.nih.gov/8936563/"
+        },
+        {
+          "Name": "Source",
+          "Value": "Fig. 1"
+        },
+        {
+          "Name": "Grouping",
+          "Value": "Digoxin + Itraconazole Group 1"
+        },
+        {
+          "Name": "Data type",
+          "Value": "aggregated"
+        },
+        {
+          "Name": "N",
+          "Value": 5.0
+        },
+        {
+          "Name": "Molecule",
+          "Value": "Itraconazole"
+        },
+        {
+          "Name": "Species",
+          "Value": "Human"
+        },
+        {
+          "Name": "Organ",
+          "Value": "Peripheral Venous Blood"
+        },
+        {
+          "Name": "Compartment",
+          "Value": "Plasma"
+        },
+        {
+          "Name": "Route",
+          "Value": "PO"
+        },
+        {
+          "Name": "Dose",
+          "Value": "200 mg"
+        },
+        {
+          "Name": "Times of Administration [h]",
+          "Value": "S0-T24-R10"
+        },
+        {
+          "Name": "Formulation",
+          "Value": "Capsule"
+        },
+        {
+          "Name": "Food state",
+          "Value": "."
+        },
+        {
+          "Name": "Comment",
+          "Value": "."
+        }
+      ],
+      "Columns": [
+        {
+          "Name": "Avg",
+          "RelatedColumns": [
+            {
+              "Name": "Var",
+              "QuantityInfo": {
+                "Path": "Partanen 1996 - Digoxin + Itraconazole Group 1 - Itraconazole - PO - 200 mg - serum - agg. (n=5)|ObservedData|Peripheral Venous Blood|Plasma|Itraconazole|ArithmeticStdDev"
+              },
+              "DataInfo": {
+                "Origin": "ObservationAuxiliary",
+                "AuxiliaryType": "ArithmeticStdDev",
+                "MolWeight": 705.633
+              },
+              "Values": [
+                0.003559877,
+                0.001186623,
+                0.04270802,
+                0.05220105,
+                0.05460583,
+                0.0522009879,
+                0.06407776,
+                0.03679593,
+                0.0260847788,
+                0.002383766,
+                3.814697E-09,
+                0.00237325183,
+                0.001155088
+              ],
+              "Dimension": "Concentration (molar)",
+              "Unit": "µmol/l"
+            }
+          ],
+          "QuantityInfo": {
+            "Path": "Partanen 1996 - Digoxin + Itraconazole Group 1 - Itraconazole - PO - 200 mg - serum - agg. (n=5)|ObservedData|Peripheral Venous Blood|Plasma|Itraconazole|ArithmeticMean"
+          },
+          "DataInfo": {
+            "Origin": "Observation",
+            "AuxiliaryType": "Undefined",
+            "MolWeight": 705.633,
+            "LLOQ": 0.01
+          },
+          "Values": [
+            0.005,
+            0.1027949,
+            0.2209844,
+            0.3280212,
+            0.420839518,
+            0.4756542,
+            0.5779445,
+            0.3021743,
+            0.20676069,
+            0.09545832,
+            0.03279713,
+            0.005,
+            0.005
+          ],
+          "Dimension": "Concentration (molar)",
+          "Unit": "µmol/l"
+        }
+      ],
+      "BaseGrid": {
+        "Name": "Time",
+        "QuantityInfo": {
+          "Path": "Partanen 1996 - Digoxin + Itraconazole Group 1 - Itraconazole - PO - 200 mg - serum - agg. (n=5)|Time",
+          "Type": "Time"
+        },
+        "DataInfo": {
+          "Origin": "BaseGrid",
+          "AuxiliaryType": "Undefined"
+        },
+        "Values": [
+          0.0,
+          12.0,
+          36.0,
+          84.0,
+          132.0,
+          180.0,
+          228.0,
+          252.0,
+          276.0,
+          324.0,
+          372.0,
+          420.0,
+          468.0
+        ],
+        "Dimension": "Time",
+        "Unit": "h"
+      }
+    },
+    {
+      "Name": "Partanen 1996 - Digoxin + Itraconazole Group 2 - Itraconazole - PO - 200 mg - serum - agg. (n=5)",
+      "ExtendedProperties": [
+        {
+          "Name": "DB Version",
+          "Value": "OSP DATABASE"
+        },
+        {
+          "Name": "ID",
+          "Value": 16332.0
+        },
+        {
+          "Name": "Study Id",
+          "Value": "Partanen 1996"
+        },
+        {
+          "Name": "Reference",
+          "Value": "https://pubmed.ncbi.nlm.nih.gov/8936563/"
+        },
+        {
+          "Name": "Source",
+          "Value": "Fig. 1"
+        },
+        {
+          "Name": "Grouping",
+          "Value": "Digoxin + Itraconazole Group 2"
+        },
+        {
+          "Name": "Data type",
+          "Value": "aggregated"
+        },
+        {
+          "Name": "N",
+          "Value": 5.0
+        },
+        {
+          "Name": "Molecule",
+          "Value": "Itraconazole"
+        },
+        {
+          "Name": "Species",
+          "Value": "Human"
+        },
+        {
+          "Name": "Organ",
+          "Value": "Peripheral Venous Blood"
+        },
+        {
+          "Name": "Compartment",
+          "Value": "Plasma"
+        },
+        {
+          "Name": "Route",
+          "Value": "PO"
+        },
+        {
+          "Name": "Dose",
+          "Value": "200 mg"
+        },
+        {
+          "Name": "Times of Administration [h]",
+          "Value": "S240-T24-R10"
+        },
+        {
+          "Name": "Formulation",
+          "Value": "Capsule"
+        },
+        {
+          "Name": "Food state",
+          "Value": "."
+        },
+        {
+          "Name": "Comment",
+          "Value": "."
+        }
+      ],
+      "Columns": [
+        {
+          "Name": "Avg",
+          "RelatedColumns": [
+            {
+              "Name": "Var",
+              "QuantityInfo": {
+                "Path": "Partanen 1996 - Digoxin + Itraconazole Group 2 - Itraconazole - PO - 200 mg - serum - agg. (n=5)|ObservedData|Peripheral Venous Blood|Plasma|Itraconazole|ArithmeticStdDev"
+              },
+              "DataInfo": {
+                "Origin": "ObservationAuxiliary",
+                "AuxiliaryType": "ArithmeticStdDev",
+                "MolWeight": 705.633
+              },
+              "Values": [
+                0.002362739,
+                1.051331E-05,
+                0.022535339,
+                0.03087332,
+                0.0308627,
+                0.02490863,
+                0.06527496
+              ],
+              "Dimension": "Concentration (molar)",
+              "Unit": "µmol/l"
+            }
+          ],
+          "QuantityInfo": {
+            "Path": "Partanen 1996 - Digoxin + Itraconazole Group 2 - Itraconazole - PO - 200 mg - serum - agg. (n=5)|ObservedData|Peripheral Venous Blood|Plasma|Itraconazole|ArithmeticMean"
+          },
+          "DataInfo": {
+            "Origin": "Observation",
+            "AuxiliaryType": "Undefined",
+            "MolWeight": 705.633,
+            "LLOQ": 0.01
+          },
+          "Values": [
+            0.005,
+            0.09925079,
+            0.2530391,
+            0.3446497,
+            0.429161727,
+            0.5290577,
+            0.6479607
+          ],
+          "Dimension": "Concentration (molar)",
+          "Unit": "µmol/l"
+        }
+      ],
+      "BaseGrid": {
+        "Name": "Time",
+        "QuantityInfo": {
+          "Path": "Partanen 1996 - Digoxin + Itraconazole Group 2 - Itraconazole - PO - 200 mg - serum - agg. (n=5)|Time",
+          "Type": "Time"
+        },
+        "DataInfo": {
+          "Origin": "BaseGrid",
+          "AuxiliaryType": "Undefined"
+        },
+        "Values": [
+          228.0,
+          252.0,
+          276.0,
+          324.0,
+          372.0,
+          420.0,
+          468.0
+        ],
+        "Dimension": "Time",
+        "Unit": "h"
+      }
+    }
+  ],
+  "ObservedDataClassifications": [
+    {
+      "Name": "Jalava 1997",
+      "Classifiables": [
+        "Jalava 1997 - po Control (Perpetrator Placebo) - Digoxin - PO - 0.5 mg - Urine - agg. (n=10)",
+        "Jalava 1997 - po with Perpetrator (Itraconazole) - Digoxin - PO - 0.5 mg - Serum - agg. (n=10)",
+        "Jalava 1997 - po with Perpetrator (Itraconazole) - Itraconazole - PO - 200 mg - Plasma - agg. (n=10)",
+        "Jalava 1997 - po Control (Perpetrator Placebo) - Digoxin - PO - 0.5 mg - Serum - agg. (n=10)",
+        "Jalava 1997 - po with Perpetrator (Itraconazole) - Digoxin - PO - 0.5 mg - Urine - agg. (n=10)"
+      ]
+    },
+    {
+      "Name": "Partanen 1996",
+      "Classifiables": [
+        "Partanen 1996 - Digoxin + Itraconazole Group 1 - Digoxin - PO - 0.25 mg - serum - agg. (n=5)",
+        "Partanen 1996 - Digoxin + Itraconazole Group 2 - Digoxin - PO - 0.25 mg - serum - agg. (n=5)",
+        "Partanen 1996 - Digoxin + Itraconazole Group 1 - Itraconazole - PO - 200 mg - serum - agg. (n=5)",
+        "Partanen 1996 - Digoxin + Itraconazole Group 2 - Itraconazole - PO - 200 mg - serum - agg. (n=5)"
+      ]
+    }
+  ]
+}
